@@ -2946,19 +2946,6 @@
 "art": "Konzert"
 },
 {
-"d": "2026-12-12",
-"t": "19:30",
-"ti": "Perpetuum Jazzile",
-"o": "Kultur im Zentrum Spielberg",
-"k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/43004792-perpetuum-jazzile-at-kultur-im-zentrum",
-"m": [
-"NEU"
-],
-"um": true,
-"art": "A-cappella-Chor, Pop"
-},
-{
 "d": "2026-12-15",
 "t": "20:00",
 "ti": "Bryan Adams",
@@ -3013,17 +3000,16 @@
 "art": "Rechtsmedizin, Vortrag"
 },
 {
-"d": "2026-12-17",
-"t": "20:00",
+"d": "2026-12-19",
 "ti": "OldSchoolBasterds",
-"o": "Kulturhaus Knittelfeld",
+"o": "Kunsthaus Weiz",
 "k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/42932073-oldschoolbasterds-at-kulturhaus-knittelfeld",
+"u": "https://www.songkick.com/de/concerts/43287125-oldschoolbasterds-at-kunsthaus-weiz",
 "m": [
 "NEU"
 ],
 "um": true,
-"zus": "auch 18.12. Bad Radkersburg, 19.12. Kunsthaus Weiz",
+"zus": "auch 18.12. Bad Radkersburg",
 "art": "Bandkonzert"
 },
 {
@@ -3164,18 +3150,6 @@
 "NEU"
 ],
 "art": "Kabarett-Solo"
-},
-{
-"d": "2027-01-21",
-"ti": "Karl Ratzer",
-"o": "Kulturhaus Knittelfeld",
-"k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/43210512-karl-ratzer-at-kulturhaus-knittelfeld",
-"m": [
-"NEU"
-],
-"um": true,
-"art": "Jazzgitarre"
 },
 {
 "d": "2027-01-21",
@@ -3472,18 +3446,6 @@
 "art": "Alpine Songwriter"
 },
 {
-"d": "2027-02-13",
-"ti": "Oakfield Rocknight",
-"o": "Kultur im Zentrum Spielberg",
-"k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/43429468-oakfield-at-kultur-im-zentrum",
-"m": [
-"NEU"
-],
-"um": true,
-"art": "Rocknacht"
-},
-{
 "d": "2027-02-16",
 "t": "20:00",
 "ti": "Rammstein Symphonic Tribute „Herzfeuer“",
@@ -3608,18 +3570,6 @@
 "NEU"
 ],
 "art": "Post-Punk"
-},
-{
-"d": "2027-02-26",
-"ti": "Christian Bakanic",
-"o": "Kulturhaus Knittelfeld",
-"k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/43210592-christian-bakanic-at-kulturhaus-knittelfeld",
-"m": [
-"NEU"
-],
-"um": true,
-"art": "Akkordeon, Jazz"
 },
 {
 "d": "2027-02-27",
@@ -3976,18 +3926,6 @@
 },
 {
 "d": "2027-04-01",
-"ti": "Peter Cornelius",
-"o": "Kulturhaus Knittelfeld",
-"k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/43526286-peter-cornelius-at-kulturhaus-knittelfeld",
-"m": [
-"NEU"
-],
-"um": true,
-"art": "Austropop-Legende"
-},
-{
-"d": "2027-04-01",
 "ti": "Danzer (Tribute)",
 "o": "forumKloster Gleisdorf",
 "k": "Konzerte",
@@ -4087,8 +4025,6 @@
 "m": [
 "NEU"
 ],
-"um": true,
-"zus": "auch 20.11. Knittelfeld",
 "art": "Singer-Songwriter"
 },
 {
@@ -4113,18 +4049,6 @@
 "NEU"
 ],
 "art": "Musik & Kabarett"
-},
-{
-"d": "2027-04-09",
-"ti": "Ina Regen",
-"o": "Kulturhaus Knittelfeld",
-"k": "Konzerte",
-"u": "https://www.songkick.com/de/concerts/43108105-ina-regen-at-kulturhaus-knittelfeld",
-"m": [
-"NEU"
-],
-"um": true,
-"art": "Austropop"
 },
 {
 "d": "2027-04-10",
@@ -4207,8 +4131,6 @@
 "m": [
 "NEU"
 ],
-"um": true,
-"zus": "auch 17.4. Knittelfeld",
 "art": "Mundart-Pop"
 },
 {
