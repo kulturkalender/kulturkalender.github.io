@@ -1,0 +1,2767 @@
+{
+"stand": "2026-11-24",
+"termine": [
+{
+"d": "2026-11-13",
+"bis": "2027-04-11",
+"ti": "„Trauma Körper. Hannes Schwarz, Walter Pichler und Bruno Gironcoli“",
+"o": "Neue Galerie Graz",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://oe1kalender.orf.at/details/e34ccbe2-2a44-4ef8-2f64-08df3116ca55/Tipps",
+"art": "Österreichische Nachkriegskunst"
+},
+{
+"d": "2026-11-17",
+"ti": "„Weihnachten kann man riechen“",
+"o": "Diözesanmuseum",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1793363051",
+"art": "Advent-Ausstellung"
+},
+{
+"d": "2026-11-19",
+"ti": "Theresa Obermayer „The Suburbs“ (STAGES)",
+"o": "Halle für Kunst",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1794390516",
+"m": [
+"ENDET So 29.11."
+],
+"art": "Junge Kunst, Einzelschau"
+},
+{
+"d": "2026-11-19",
+"ti": "„Camouflage“ (BVBK)",
+"o": "Straßganger Kulturzentrum",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1793865718",
+"art": "Gruppenausstellung bildende Kunst"
+},
+{
+"d": "2026-11-20",
+"ti": "Aufsteirern Weihnachtsmarkt",
+"o": "Schlossberg, Kasemattenbühne",
+"k": "Feste & Partys",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1794477926",
+"art": "Steirischer Adventmarkt"
+},
+{
+"d": "2026-11-20",
+"ti": "IDA MALY",
+"o": "Kunsthalle Graz",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1792576400",
+"art": "Malerin der Moderne"
+},
+{
+"d": "2026-11-20",
+"ti": "PAPER WORKS! 2",
+"o": "Galerie Reinisch Contemporary",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1795015945",
+"art": "Arbeiten auf Papier"
+},
+{
+"d": "2026-11-20",
+"ti": "Galerie-Basar 2026",
+"o": "Galerie Centrum Graz",
+"k": "Feste & Partys",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1794299647",
+"art": "Kunst zum Mitnehmen"
+},
+{
+"d": "2026-11-24",
+"ti": "Martin Maloney",
+"o": "Grazer Kunstverein",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1787730301",
+"art": "Malerei, Einzelschau"
+},
+{
+"d": "2026-11-24",
+"ti": "Valérie Jouve „The Outside Inside“",
+"o": "Camera Austria",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1788251902",
+"art": "Fotografie-Ausstellung"
+},
+{
+"d": "2026-11-24",
+"ti": "Eilfried Huth „TOHOWABOHU – Stille & Gewalt“",
+"o": "KULTUM",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1788848795",
+"art": "Architekt, Werkschau"
+},
+{
+"d": "2026-11-24",
+"ti": "„GOTT HAT KEIN MUSEUM“",
+"o": "KULTUM",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1788358793",
+"art": "Religion & Gegenwartskunst"
+},
+{
+"d": "2026-11-24",
+"ti": "„Morgen war alles besser. Im Graz der 70er“",
+"o": "Graz Museum",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1782286381",
+"art": "Stadtgeschichte 1970er"
+},
+{
+"d": "2026-11-24",
+"ti": "„Demokratie, heast!“",
+"o": "Graz Museum",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1769686781",
+"art": "Ausstellung über Demokratie"
+},
+{
+"d": "2026-11-24",
+"ti": "„Das kolossale Landtier“",
+"o": "rotor",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1790060171",
+"art": "Gegenwartskunst"
+},
+{
+"d": "2026-11-24",
+"ti": "Klaus Kada „Nuancen und Atmosphären“ / Bettina Paschke „Linien ziehen“",
+"o": "MUWA",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1788766519",
+"art": "Architektur & Zeichnung"
+},
+{
+"d": "2026-11-24",
+"ti": "„Altersgeschichten“",
+"o": "Volkskundemuseum",
+"k": "Ausstellungen",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1774518607",
+"art": "Ausstellung übers Älterwerden"
+},
+{
+"d": "2026-11-24",
+"ti": "Adventmarkt im Steirischen Heimatwerk",
+"k": "Feste & Partys",
+"lauf": true,
+"u": "https://kultur.graz.at/kalender/event/1793867127",
+"art": "Handwerk-Adventmarkt"
+},
+{
+"d": "2026-11-25",
+"t": "19:00",
+"ti": "„Die Eigenarten dreier Herren“",
+"o": "Galerie Sommer",
+"zus": "Vernissage",
+"k": "Ausstellungen",
+"u": "https://kultur.graz.at/kalender/event/1794902975",
+"m": [
+"NEU"
+],
+"art": "Vernissage, Galerie"
+},
+{
+"d": "2026-11-25",
+"t": "19:00",
+"ti": "„SMALL PIECES – das kleine Format“",
+"o": "Galerie Bachlechner",
+"zus": "Vernissage",
+"k": "Ausstellungen",
+"u": "https://kultur.graz.at/kalender/event/1794901719",
+"m": [
+"NEU"
+],
+"art": "Vernissage, kleine Formate"
+},
+{
+"d": "2026-11-27",
+"t": "19:00",
+"ti": "„Die Rede des großen Diktators“ Charlie Chaplin",
+"o": "Galerie Centrum Graz",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1794916839",
+"m": [
+"NEU"
+],
+"art": "Chaplin-Rede, Abend"
+},
+{
+"d": "2026-11-24",
+"bis": "2026-12-20",
+"ti": "Adventmärkte im Umland",
+"o": "Stainz, Lannach, Pöllau, Brandlucken, Hartberg, Gleisdorf",
+"k": "Feste & Partys",
+"u": "https://www.steiermark.com/de/Oststeiermark/Urlaub-planen/Veranstaltungen/Poellauer-Schlossadvent_ed_75580630",
+"um": true,
+"lauf": true,
+"art": "Adventmärkte rund um Graz"
+},
+{
+"d": "2026-11-24",
+"ti": "„AMAITHI“ – Ingrid Wieser (freitags ab 15:00)",
+"o": "Krois Haus Stainz",
+"k": "Ausstellungen",
+"u": "https://kroishaus.at/VernissageIngridWieser",
+"um": true,
+"lauf": true,
+"art": "Malerei, Ausstellung"
+},
+{
+"d": "2026-11-24",
+"bis": "2026-11-29",
+"t": "20:00",
+"ti": "Schlossfestspiele Piber „Der Hochzeitstag“ (Nestroy)",
+"o": "Köflach",
+"k": "Theater & Oper",
+"u": "https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Schlossfestspiele-Piber-Der-Hochzeitstag_ed_92628419",
+"p": "€ 49,90",
+"um": true,
+"art": "Nestroy-Komödie, Schlosstheater"
+},
+{
+"d": "2026-11-24",
+"t": "19:00",
+"ti": "Premiere „Abschied von der Arbeit – Morgen bin ich Pensionistin“",
+"o": "QUARTIER TiB",
+"k": "Theater & Oper",
+"u": "https://www.theater-im-bahnhof.com/de/schedule",
+"m": [
+"PREMIERE",
+"KARTEN SICHERN"
+],
+"zus": "bis 28.11.",
+"art": "Freies Theater, Uraufführung"
+},
+{
+"d": "2026-11-24",
+"t": "19:00",
+"ti": "Cordula Simon & Johannes Wally",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1793184559",
+"art": "Lesung, Gegenwartsliteratur"
+},
+{
+"d": "2026-11-24",
+"t": "18:00",
+"ti": "rotor Kunstpreis 2025 Verleihung",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1794919513",
+"m": [
+"NEU"
+],
+"art": "Preisverleihung Kunst"
+},
+{
+"d": "2026-11-24",
+"t": "19:30",
+"ti": "Robert Palfrader „Testament“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-24-193000/?lang=de",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Kabarett-Solo"
+},
+{
+"d": "2026-11-24",
+"t": "19:30",
+"ti": "Annett Louisan „Sehnsucht“",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://www.oeticket.com/event/annett-louisan-sehnsucht-orpheum-graz-20751756/",
+"art": "Deutscher Chanson-Pop"
+},
+{
+"d": "2026-11-24",
+"auch": [
+"2026-11-25",
+"2026-11-27",
+"2026-11-28"
+],
+"t": "19:30",
+"ti": "ARM GEMACHT",
+"o": "Theater am Lend",
+"k": "Theater & Oper",
+"u": "https://kultur.graz.at/kalender/event/1794297183",
+"m": [
+"PREMIERE"
+],
+"art": "Freies Theater"
+},
+{
+"d": "2026-11-24",
+"auch": [
+"2026-11-25"
+],
+"t": "20:00",
+"ti": "LIEB ICH",
+"o": "Graz",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1793604271",
+"art": "Musikabend"
+},
+{
+"d": "2026-11-24",
+"auch": [
+"2026-11-25"
+],
+"t": "20:00",
+"ti": "„Lieder, die lustig sind …“",
+"o": "Theatercafé",
+"k": "Kabarett & Kleinkunst",
+"u": "https://kultur.graz.at/kalender/event/1793878809",
+"art": "Heiterer Liederabend"
+},
+{
+"d": "2026-11-24",
+"t": "20:00",
+"ti": "Jazz Passengers – Money In The Pocket",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.tubes-music.at/de/",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "New Yorker Jazz"
+},
+{
+"d": "2026-11-24",
+"t": "20:00",
+"ti": "Deutsch-Ginot",
+"o": "MUWA",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/deutsch-ginot/",
+"art": "Jazzkonzert"
+},
+{
+"d": "2026-11-25",
+"t": "15:00",
+"ti": "Tanzcafé / ChaChaCha",
+"o": "Café Wolf",
+"k": "Tanzen",
+"u": "https://kultur.graz.at/kalender/event/1788954837",
+"art": "Tanznachmittag, Paartanz"
+},
+{
+"d": "2026-11-25",
+"t": "17:00",
+"ti": "Musik am Mittwoch: Young Academy Styria",
+"o": "Salon Stolz",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1789030380",
+"m": [
+"NEU"
+],
+"art": "Junge Klassik"
+},
+{
+"d": "2026-11-25",
+"t": "18:00",
+"ti": "Makabærett – Auf der Suche nach Heiterkeit",
+"o": "Stockwerk",
+"k": "Kabarett & Kleinkunst",
+"u": "https://kultur.graz.at/kalender/event/1794902182",
+"m": [
+"NEU"
+],
+"art": "Schwarzhumoriges Kabarett"
+},
+{
+"d": "2026-11-25",
+"t": "18:00",
+"ti": "Where Do We Go from Here? – Part III",
+"o": "Graz",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1794991700",
+"m": [
+"NEU"
+],
+"art": "Diskussion, Gesellschaft"
+},
+{
+"d": "2026-11-25",
+"t": "19:00",
+"ti": "Laura Freudenthaler: Geistergeschichte",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1793184757",
+"art": "Lesung, Roman"
+},
+{
+"d": "2026-11-25",
+"auch": [
+"2026-11-26"
+],
+"t": "19:30",
+"ti": "Ein Übertritt (alles auf Ende) – Jelinek",
+"o": "Schauspielhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-25-193000/?lang=de",
+"zus": "auch 16./19.12., bis 8.1.2027",
+"art": "Jelinek-Schauspiel"
+},
+{
+"d": "2026-11-25",
+"t": "19:30",
+"ti": "Eva Mattes & Etta Scollo Trio „Nirgendland“",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-25-193000-2/?lang=de",
+"art": "Lesung mit Musik"
+},
+{
+"d": "2026-11-25",
+"t": "19:30",
+"ti": "Konzertzyklus KlavierTrio: Benjamin Schmid Trio (Haering, Hagen, Schmid)",
+"o": "Hartberg, Stadtwerke-Hartberg-Halle",
+"k": "Konzerte",
+"u": "https://www.oeticket.com/event/benjamin-schmid-trio-ariane-haering-clemens-hagen-benjamin-schmid-stadtwerke-hartberg-halle-21546122/",
+"um": true,
+"art": "Klaviertrio, Klassik"
+},
+{
+"d": "2026-11-25",
+"t": "19:30",
+"ti": "Christof Spörk „Maximo Lieder“",
+"o": "forumKloster Gleisdorf",
+"k": "Kabarett & Kleinkunst",
+"u": "https://www.oeticket.com/event/christof-spoerk-maximo-lieder-forum-kloster-gleisdorf-21208296/",
+"m": [
+"NEU"
+],
+"um": true,
+"art": "Musikkabarett"
+},
+{
+"d": "2026-11-25",
+"t": "20:00",
+"ti": "Miss Ivanka T. „Chef*in live“",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-25-200000/?lang=de",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Comedy-Solo"
+},
+{
+"d": "2026-11-25",
+"t": "20:00",
+"ti": "Pfiat Di Gott – MGV Stallhofen",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1783320985",
+"art": "Männerchor, Volksmusik"
+},
+{
+"d": "2026-11-25",
+"t": "20:00",
+"ti": "Bragolin & Carrellee (auch 5.12.)",
+"o": "PPC",
+"k": "Konzerte",
+"u": "https://www.oeticket.com/event/bragolin-carrellee-european-autumn-tour-2026-ppc-21959742/",
+"art": "Singer-Songwriter-Konzert"
+},
+{
+"d": "2026-11-25",
+"t": "21:00",
+"ti": "Liedermacherabend (offene Bühne)",
+"o": "Humboldtkeller",
+"k": "Konzerte",
+"u": "https://www.humboldtkeller.at/index.php/liedermacherabend",
+"art": "Offene Bühne, Liedermacher"
+},
+{
+"d": "2026-11-25",
+"auch": [
+"2026-11-27"
+],
+"t": "19:30, 29.11. 15:30",
+"ti": "Kleine Verbrechen unter Liebenden",
+"o": "Das LeBe",
+"k": "Theater & Oper",
+"u": "http://www.le-be.at/Kleine-Verbrechen-unter-Liebenden.html",
+"art": "Kammerspiel, Beziehungsdrama"
+},
+{
+"d": "2026-11-26",
+"t": "18:00",
+"ti": "Dirk Stermann: Die Republik der Irren",
+"o": "RESOWI",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1794297654",
+"art": "Lesung, Satire"
+},
+{
+"d": "2026-11-26",
+"t": "18:00",
+"ti": "Musica e Gusto – Benvenuti al Sud",
+"o": "Stefaniensaal",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1793356518",
+"m": [
+"NEU"
+],
+"art": "Italienische Musik & Genuss"
+},
+{
+"d": "2026-11-26",
+"t": "19:00",
+"ti": "Humor als Quelle der Kraft in schwierigen Zeiten",
+"o": "Bildungsforum Minoriten",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1793362625",
+"art": "Vortrag, Humor"
+},
+{
+"d": "2026-11-26",
+"t": "19:00",
+"ti": "Premiere „Der Schneesturm“ (Theater Quadrat)",
+"o": "Theaterhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-26-190000/?lang=de",
+"m": [
+"AUSVERKAUFT",
+"PREMIERE"
+],
+"zus": "weitere 3./4./10./11.12. (Karten), 7./12./15./16.1.",
+"art": "Theaterproduktion, Premiere"
+},
+{
+"d": "2026-11-26",
+"t": "19:30",
+"ti": "Stefan Moser singt Stefan Moser",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-26-193000/?lang=de",
+"art": "Liederabend"
+},
+{
+"d": "2026-11-26",
+"t": "19:30",
+"ti": "Salterina – In 80 Tönen um die Welt",
+"o": "Gamlitz",
+"k": "Konzerte",
+"u": "https://www.steiermark.com/de/Suedsteiermark/Urlaub-planen/Veranstaltungen/Salterina-In-80-Toenen-um-die-Welt_ed_93742147",
+"um": true,
+"art": "Weltmusik-Konzert"
+},
+{
+"d": "2026-11-26",
+"t": "20:00",
+"ti": "Elli Bauer „FANGST?“",
+"o": "Orpheum Extra",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-26-200000-2/?lang=de",
+"art": "Kabarett-Solo"
+},
+{
+"d": "2026-11-26",
+"t": "20:00",
+"ti": "Sitzfleisch live (Kraschitzer & Strasser, Gast Robert Müller)",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-26-200000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Live-Podcast, Comedy"
+},
+{
+"d": "2026-11-26",
+"t": "20:00",
+"ti": "Archive Pleasure Social Club",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1794819849",
+"m": [
+"NEU"
+],
+"art": "Bandkonzert"
+},
+{
+"d": "2026-11-26",
+"auch": [
+"2026-11-27"
+],
+"t": "20:00",
+"ti": "„Noch da! 100 Jahr, blondes Haar“",
+"o": "Theatercafé",
+"k": "Kabarett & Kleinkunst",
+"u": "https://kultur.graz.at/kalender/event/1793878939",
+"art": "Kabarettabend"
+},
+{
+"d": "2026-11-26",
+"t": "20:00",
+"ti": "Eva Plankton & Peter Taucher „Dance of Time“",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"art": "Konzert, Klang"
+},
+{
+"d": "2026-11-26",
+"auch": [
+"2026-11-27"
+],
+"t": "20:00",
+"ti": "Nina Feldgrill – Wind's Whispers",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.tubes-music.at/de/",
+"m": [
+"KARTEN SICHERN",
+"KARTEN KNAPP"
+],
+"art": "Jazz, Posaune"
+},
+{
+"d": "2026-11-26",
+"auch": [
+"2026-11-27"
+],
+"t": "20:00",
+"ti": "Shortcuts Festival (Jazzwerkstatt Graz)",
+"o": "Stockwerk",
+"k": "Festivals",
+"u": "https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Shortcuts-Festival_ed_93478769",
+"m": [
+"NEU"
+],
+"p": "€ 25/15",
+"art": "Jazzfestival, Kurzsets"
+},
+{
+"d": "2026-11-26",
+"auch": [
+"2026-11-27"
+],
+"ti": "Herbert Pixner Projekt",
+"o": "Kunsthaus Weiz",
+"k": "Konzerte",
+"u": "https://songkick.com/venues/364761-kunsthaus-weiz",
+"m": [
+"KARTEN SICHERN"
+],
+"um": true,
+"art": "Alpine Weltmusik"
+},
+{
+"d": "2026-11-27",
+"t": "18:30",
+"ti": "Der jüngste Tag (Horváth) – zum letzten Mal",
+"o": "Schauspielhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-27-183000/?lang=de",
+"art": "Horváth-Schauspiel"
+},
+{
+"d": "2026-11-27",
+"t": "19:00",
+"ti": "In God We Trust | Hannes Priesch",
+"o": "KULTUM",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1793627470",
+"art": "Kunst-Performance"
+},
+{
+"d": "2026-11-27",
+"t": "19:00",
+"ti": "Portraitkonzert Henrik Sande",
+"o": "kultursalon graz",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1794475895",
+"art": "Neue Musik, Porträtkonzert"
+},
+{
+"d": "2026-11-27",
+"t": "19:00",
+"ti": "A Night at the MO.XX – Dire Straits Tribute",
+"o": "mo.xx",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1794820657",
+"m": [
+"NEU"
+],
+"art": "Rock-Tributeband"
+},
+{
+"d": "2026-11-27",
+"t": "19:00",
+"ti": "Country Gospel XMas",
+"o": "Straßganger Kulturzentrum",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1792574232",
+"m": [
+"NEU"
+],
+"art": "Country & Gospel"
+},
+{
+"d": "2026-11-27",
+"auch": [
+"2026-11-28"
+],
+"t": "19:30",
+"ti": "„Taxi, Taxi“",
+"o": "Komödie",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-27-193000/?lang=de",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Boulevard-Komödie"
+},
+{
+"d": "2026-11-27",
+"t": "19:30",
+"ti": "Lesung Birgit Birnbacher",
+"o": "Stieglerhaus St. Stefan ob Stainz",
+"k": "Lesungen & Vorträge",
+"u": "https://www.steiermark.com/de/Suedsteiermark/Urlaub-planen/Veranstaltungen/Lesung-Birgit-Birnbacher_ed_91222056",
+"um": true,
+"art": "Lesung, Gegenwartsroman"
+},
+{
+"d": "2026-11-27",
+"t": "19:30",
+"ti": "Lesung „Die Murauerinnen“ – Scheiss di nix",
+"o": "Eibiswald",
+"k": "Lesungen & Vorträge",
+"u": "https://www.steiermark.com/de/Suedsteiermark/Urlaub-planen/Veranstaltungen/Lesung-Die-Murauerinnen-Scheiss-di-nix_ed_95885356",
+"m": [
+"NEU"
+],
+"um": true,
+"art": "Lesung, steirisch"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Doppelkonzert Bad Ida + Eva Plankton/Peter Taucher",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"art": "Doppelkonzert"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Erwin R. & Friends (LiedGUT)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Liedermacher-Konzert"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Amistat",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1785398438",
+"art": "Folk-Pop-Duo"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Shallow Silence",
+"o": "MUWA",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/shallow-silence/",
+"art": "Jazzkonzert"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Sam Ghezzi Blues Band",
+"o": "Royal Garden",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/sam-ghezzi-blues-band/",
+"art": "Blueskonzert"
+},
+{
+"d": "2026-11-28",
+"t": "19:00",
+"ti": "Maria Hofstätter liest Marie Jahoda",
+"o": "Minoritensaal",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1793362470",
+"art": "Lesung, Zeitgeschichte"
+},
+{
+"d": "2026-11-28",
+"t": "19:00",
+"ti": "Österreich trifft Griechenland",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1792394110",
+"art": "Lesung, Literaturdialog"
+},
+{
+"d": "2026-11-28",
+"t": "16:00/19:30",
+"ti": "Kammermusiktage November (KUG)",
+"o": "Palais Meran",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1794821125",
+"m": [
+"NEU"
+],
+"art": "Kammermusik, Studierende"
+},
+{
+"d": "2026-11-28",
+"t": "19:30",
+"ti": "Premiere „La Bohème“ (Puccini)",
+"o": "Oper",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-28-193000-2/?lang=de",
+"m": [
+"PREMIERE",
+"KARTEN SICHERN"
+],
+"zus": "auch 2./4./10./16./20.12., bis 16.1.",
+"art": "Puccini-Oper"
+},
+{
+"d": "2026-11-28",
+"t": "19:30",
+"ti": "Österreichischer Jazzpreis 2026",
+"o": "Dom im Berg",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-28-193000-3/?lang=de",
+"m": [
+"KARTEN SICHERN"
+],
+"art": "Jazz-Gala, Preisverleihung"
+},
+{
+"d": "2026-11-28",
+"t": "19:30",
+"ti": "Soirée Noir – Norbert Wally & Andreas Woyke",
+"o": "Greith-Haus",
+"k": "Konzerte",
+"u": "https://www.facebook.com/events/1656819752751906/",
+"art": "Jazz-Duo"
+},
+{
+"d": "2026-11-28",
+"t": "19:30",
+"ti": "Piano & Sand – New Moon",
+"o": "Pöllau",
+"k": "Konzerte",
+"u": "https://www.steiermark.com/de/Veranstaltungen",
+"um": true,
+"art": "Klavier & Sandmalerei"
+},
+{
+"d": "2026-11-28",
+"t": "20:00",
+"ti": "Premiere „Otherland“",
+"o": "Schauspielhaus Schauraum",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-28-200000-2/?lang=de",
+"m": [
+"AUSVERKAUFT",
+"PREMIERE"
+],
+"art": "Schauspiel, Gegenwartsstück"
+},
+{
+"d": "2026-11-28",
+"t": "20:00",
+"ti": "Purple and the Ghostbusters",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-28-200000-3/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Bandkonzert"
+},
+{
+"d": "2026-11-28",
+"t": "20:00",
+"ti": "Surfacetension – 30 Jahre",
+"o": "Music House",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1793183352",
+"m": [
+"NEU"
+],
+"art": "Band-Jubiläumskonzert"
+},
+{
+"d": "2026-11-28",
+"t": "20:00",
+"ti": "„Bauchfleck ins Fettnäpfchen“",
+"o": "Theatercafé",
+"k": "Kabarett & Kleinkunst",
+"u": "https://kultur.graz.at/kalender/event/1793879081",
+"art": "Kabarettabend"
+},
+{
+"d": "2026-11-28",
+"t": "20:00",
+"ti": "kreuterwiese Release-Konzert (FernWEH)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Albumpräsentation"
+},
+{
+"d": "2026-11-28",
+"t": "10:00",
+"ti": "Open House: Bücher, Bilder, Raritäten",
+"o": "Atelier Jungwirth",
+"k": "Feste & Partys",
+"u": "https://kultur.graz.at/kalender/event/1795013780",
+"m": [
+"NEU"
+],
+"art": "Atelier-Flohmarkt"
+},
+{
+"d": "2026-11-29",
+"t": "15:00",
+"ti": "Romeo und Julia – Tanzabend Etienne Béchard (Bühnentanz, nicht klassisch)",
+"o": "Oper",
+"k": "Tanzen",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-29-150000/?lang=de",
+"zus": "auch 12.12. 19:30",
+"art": "Tanzabend, zeitgenössisch"
+},
+{
+"d": "2026-11-29",
+"t": "11:00",
+"ti": "Vertrieben und verfolgt – Gedenken in Tönen: Iván Erőd",
+"o": "Fux-Konservatorium",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1793195276",
+"art": "Gedenkkonzert, Klassik"
+},
+{
+"d": "2026-11-29",
+"t": "17:00",
+"ti": "Eddie Luis – Sunshine Orchestra",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.tubes-music.at/de/",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Jazz-Bigband"
+},
+{
+"d": "2026-11-29",
+"t": "17:00",
+"ti": "Cantanima Kontraste; EGON7 Weihnachtskonzert mit Michael Lehofer; 18:00 Paolo Scariano „Buon Natale“",
+"o": "Graz",
+"k": "Konzerte",
+"u": "https://www.oeticket.com/",
+"m": [
+"NEU"
+],
+"art": "Chor- & Weihnachtskonzerte"
+},
+{
+"d": "2026-11-29",
+"t": "18:00",
+"ti": "„Judenhass – Gedanken gegen alte und neue Vorurteile“",
+"o": "Graz",
+"k": "Lesungen & Vorträge",
+"u": "https://kultur.graz.at/kalender/event/1790770788",
+"art": "Vortrag, Gesellschaft"
+},
+{
+"d": "2026-11-29",
+"t": "19:30",
+"ti": "Magnificat",
+"o": "Grazer Dom",
+"k": "Konzerte",
+"u": "https://kultur.graz.at/kalender/event/1794407637",
+"art": "Chorkonzert, Kirchenmusik"
+},
+{
+"d": "2026-11-29",
+"t": "19:30",
+"ti": "„Frauen leben – Frauen sterben“ (Malerei, Konzert & Theater)",
+"o": "GOLD & PECH Theater Höf",
+"k": "Konzerte",
+"u": "https://www.goldundpechmarie.at/event-details/frauen-leben-frauen-sterben-2026-11-29-19-30",
+"m": [
+"NEU"
+],
+"um": true,
+"art": "Malerei, Musik & Theater"
+},
+{
+"d": "2026-11-29",
+"t": "20:00",
+"ti": "Starbugs Comedy „SHOWTIME!“",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-29-200000/?lang=de",
+"art": "Slapstick-Comedy"
+},
+{
+"d": "2026-11-29",
+"auch": [
+"2026-12-06",
+"2026-12-13",
+"2026-12-20"
+],
+"ti": "Adventsingen (Adventsonntage)",
+"o": "Johann Waller Hütte, Schöckl",
+"k": "Feste & Partys",
+"u": "https://www.johannwallerhuette.at/adventsingen.php",
+"um": true,
+"art": "Volksmusik am Berg"
+},
+{
+"d": "2026-11-30",
+"t": "19:00",
+"ti": "Science meets Poetry (Marković, Meindl, Puntigam)",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://literaturhaus-graz.at",
+"art": "Wissenschaft trifft Lyrik"
+},
+{
+"d": "2026-11-30",
+"t": "19:30",
+"ti": "Plácido Domingo – Noche española",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Opernstar, spanischer Abend"
+},
+{
+"d": "2026-11-30",
+"t": "19:30",
+"ti": "Kammerkonzert 3 »Individuelle Klänge«",
+"o": "Oper Spiegelfoyer",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-30-193000-2/?lang=de",
+"art": "Kammermusik, Opernorchester"
+},
+{
+"d": "2026-11-30",
+"t": "19:30",
+"ti": "30 Jahre Ulrich Tukur & die Rhythmus Boys „Tohuwabohu!“",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-30-193000/?lang=de",
+"zus": "auch 1./2.12.",
+"art": "Swing & Schlager-Show"
+},
+{
+"d": "2026-11-30",
+"t": "20:00",
+"ti": "Thomas Gansch & Die Weihnachtsschlager-Therapie",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-30-200000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Blasmusik-Weihnachtsshow"
+},
+{
+"d": "2026-11-30",
+"t": "20:00",
+"ti": "Piano Night I (KUG), 1.12. Piano Night II",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/piano-night-i-6/",
+"art": "Jazzpiano, KUG"
+},
+{
+"d": "2026-11-30",
+"t": "20:00",
+"ti": "Weihnachtskonzert Impulso Tenors",
+"o": "Lannach (lt. oeticket 1.12. 20:00 Graz)",
+"k": "Konzerte",
+"u": "https://www.steiermark.com/de/Veranstaltungen",
+"um": true,
+"art": "Tenöre, Weihnachtskonzert"
+},
+{
+"d": "2026-12-01",
+"ti": "un+plugged & ungefiltert: Musikstammtisch",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Offener Musikabend"
+},
+{
+"d": "2026-12-01",
+"ti": "Alf Poier „EXTREM normal“",
+"o": "Tube's",
+"k": "Kabarett & Kleinkunst",
+"u": "https://www.tubes-music.at/de/",
+"m": [
+"NEU"
+],
+"art": "Kabarett-Solo"
+},
+{
+"d": "2026-12-01",
+"t": "19:30",
+"ti": "Viktor Gernot „A Night Before Christmas“",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-01-193000-2/?lang=de",
+"art": "Weihnachtsshow, Swing"
+},
+{
+"d": "2026-12-01",
+"t": "20:00",
+"ti": "Prima Facie (Wiederaufnahme)",
+"o": "Schauspielhaus Schauraum",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-01-200000/?lang=de",
+"zus": "auch 4./17.12.",
+"art": "Monolog, Justizdrama"
+},
+{
+"d": "2026-12-02",
+"t": "19:15",
+"ti": "Swing-Café (The Lindy Cats)",
+"o": "Postgarage Café",
+"k": "Tanzen",
+"u": "https://www.postgarage.at/program/the-lindy-cats-pres-swing-caf%C3%A9_2026-12-02/",
+"art": "Swingtanz, Lindy Hop"
+},
+{
+"d": "2026-12-02",
+"t": "19:30",
+"ti": "SLAM 8020",
+"o": "Orpheum Extra",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"art": "Poetry Slam"
+},
+{
+"d": "2026-12-02",
+"t": "19:30",
+"ti": "TheaterTechTalk #2",
+"o": "Schauspielhaus Konsole",
+"k": "Lesungen & Vorträge",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Gespräch, Bühnentechnik"
+},
+{
+"d": "2026-12-02",
+"t": "20:00",
+"ti": "X!XU",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://www.facebook.com/events/35879173505000208/",
+"art": "Konzert"
+},
+{
+"d": "2026-12-02",
+"t": "20:00",
+"ti": "Feelin' the Spirit – Organ Trio",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/feelin-the-spirit-chicco-smic-reisenhofer-organ-trio/",
+"art": "Jazz mit Hammondorgel"
+},
+{
+"d": "2026-12-03",
+"ti": "Trio Brontë",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Klaviertrio, Klassik"
+},
+{
+"d": "2026-12-03",
+"t": "19:30",
+"ti": "Sprenger & Seberg „Offene Zweierbeziehung“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-03-193000/?lang=de",
+"art": "Komödie, Dario Fo"
+},
+{
+"d": "2026-12-03",
+"t": "20:00",
+"ti": "Bodo Wartke „Wunderpunkt“",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-03-200000/?lang=de",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Klavierkabarett"
+},
+{
+"d": "2026-12-03",
+"t": "20:30",
+"ti": "Undine geht",
+"o": "Schauspielhaus Konsole",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"AUSVERKAUFT",
+"NEU"
+],
+"art": "Bachmann, Monolog"
+},
+{
+"d": "2026-12-03",
+"t": "20:00",
+"ti": "Fliegende Haie & Fette Fete",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://www.facebook.com/events/919962321077487/",
+"art": "Partykonzert"
+},
+{
+"d": "2026-12-03",
+"t": "20:00",
+"ti": "Trembling Horizons – Eröffnung",
+"o": "Akademie Graz",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/trembling-horizons/",
+"art": "Jazz, Eröffnungsabend"
+},
+{
+"d": "2026-12-03",
+"bis": "2026-12-05",
+"t": "20:00",
+"ti": "Claudio Vignali Trio",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/claudio-vignali-trio/",
+"art": "Jazz, Klaviertrio"
+},
+{
+"d": "2026-12-04",
+"ti": "Still Waters (FernWEH)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Konzert"
+},
+{
+"d": "2026-12-04",
+"t": "19:30",
+"ti": "Comedy Hirten „Immer wieder Österreich“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-04-193000/?lang=de",
+"art": "Parodie-Kabarett"
+},
+{
+"d": "2026-12-04",
+"t": "19:30",
+"ti": "Premiere/Neue Produktion „Werther & Lotte & Albert“",
+"o": "Schauspielhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-04-193000-3/?lang=de",
+"m": [
+"PREMIERE",
+"KARTEN SICHERN"
+],
+"zus": "auch 12./15./18.12., bis 16.1.",
+"art": "Goethe neu erzählt"
+},
+{
+"d": "2026-12-04",
+"t": "20:00",
+"ti": "Glueboys",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-04-200000/?lang=de",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Comedy-Duo"
+},
+{
+"d": "2026-12-04",
+"auch": [
+"2026-12-05"
+],
+"ti": "Grrrizzzlies Doppelkonzert",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"art": "Doppelkonzert"
+},
+{
+"d": "2026-12-04",
+"t": "19:30",
+"ti": "Bluebirds Friday: Christian Masser",
+"o": "Leibnitz",
+"k": "Konzerte",
+"u": "https://www.steiermark.com/de/Veranstaltungen",
+"um": true,
+"art": "Konzert"
+},
+{
+"d": "2026-12-04",
+"t": "19:30",
+"ti": "Vortrag „Ökonomie der Angst“",
+"o": "Stieglerhaus St. Stefan ob Stainz",
+"k": "Lesungen & Vorträge",
+"u": "https://www.steiermark.com/de/Veranstaltungen",
+"um": true,
+"art": "Vortrag, Wirtschaft"
+},
+{
+"d": "2026-12-04",
+"auch": [
+"2026-12-05",
+"2026-12-06",
+"2026-12-20"
+],
+"t": "19:30",
+"ti": "Theater „KEIN.PLATZ.FÜR.JOKER“",
+"o": "GOLD & PECH Theater Höf",
+"k": "Theater & Oper",
+"u": "https://www.goldundpechmarie.at/event-details/kein-platz-fur-joker-2026-12-04-19-30",
+"m": [
+"NEU"
+],
+"um": true,
+"art": "Freies Theater"
+},
+{
+"d": "2026-12-04",
+"t": "20:00",
+"ti": "Chris Cheek Quartet (US)",
+"o": "Stockwerk",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/chris-cheek-quartet/",
+"art": "US-Jazz, Saxofon"
+},
+{
+"d": "2026-12-04",
+"t": "20:00",
+"ti": "All Jazz Ambassadors",
+"o": "Royal Garden",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/all-jazz-ambassadors-2/",
+"art": "Swing & Dixieland"
+},
+{
+"d": "2026-12-05",
+"t": "17:00",
+"ti": "Adventkonzert »Advent!« (auch 6.12. 11:00)",
+"o": "Oper",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-05-170000/?lang=de",
+"art": "Adventkonzert, Opernchor"
+},
+{
+"d": "2026-12-05",
+"t": "19:30",
+"ti": "Die Nashörner",
+"o": "Schauspielhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"zus": "auch 17.12.",
+"art": "Ionesco, absurdes Theater"
+},
+{
+"d": "2026-12-05",
+"t": "20:00",
+"ti": "JBBG – Jazz Bigband Graz „Polaroids“",
+"o": "Dom im Berg",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-05-200000/?lang=de",
+"art": "Bigband-Jazz"
+},
+{
+"d": "2026-12-05",
+"t": "20:00",
+"ti": "Gastspiel „All that Jazz“",
+"o": "Schauspielhaus Schauraum",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Musiktheater-Gastspiel"
+},
+{
+"d": "2026-12-05",
+"ti": "Worst of the 90s",
+"o": "Postgarage",
+"k": "Feste & Partys",
+"u": "https://www.postgarage.at/program/worst-of-the-90s_2026-12-05/",
+"art": "90er-Party"
+},
+{
+"d": "2026-12-05",
+"t": "20:00",
+"ti": "MOET & DJ Inoue",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://www.facebook.com/events/927774330212446/",
+"art": "Konzert & DJ"
+},
+{
+"d": "2026-12-06",
+"t": "15:30/19:30",
+"ti": "Bernhard Murg & Stefano Bernardin „…bis einer weint!“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-06-153000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Comedy-Duo"
+},
+{
+"d": "2026-12-06",
+"t": "18:00",
+"ti": "Johannes Silberschneider & Grazer Kapellknaben",
+"o": "Basilika Mariatrost",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-06-180000-2/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Lesung & Knabenchor"
+},
+{
+"d": "2026-12-06",
+"t": "20:00",
+"ti": "Voodoo Jürgens & Die Ansa Panier „Krampuskränzchen“",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-06-200000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Wienerlied-Pop"
+},
+{
+"d": "2026-12-06",
+"ti": "Edison Tadeu – CD-Präsentation (TIPP)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "CD-Präsentation"
+},
+{
+"d": "2026-12-06",
+"t": "17:00",
+"ti": "Magic Sunday „Mischen:Impossible“",
+"o": "Das LeBe",
+"k": "Theater & Oper",
+"u": "http://www.le-be.at/magic-sunday.html",
+"zus": "auch 17.1., 14.2.2027",
+"art": "Zaubershow"
+},
+{
+"d": "2026-12-06",
+"t": "20:00",
+"ti": "Junge Stücke",
+"o": "MUWA",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/junge-stuecke-4/",
+"art": "Junger Jazz"
+},
+{
+"d": "2026-12-07",
+"t": "19:00",
+"ti": "Simone Kopmajer „Home for Christmas“",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-07-190000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Jazzgesang, Weihnachten"
+},
+{
+"d": "2026-12-07",
+"t": "19:30",
+"ti": "Wolfgang Böck „Leise rieselt der Schmäh“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-07-193000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Weihnachtliches Kabarett"
+},
+{
+"d": "2026-12-07",
+"t": "19:30",
+"ti": "TiB „Montag“",
+"o": "Orpheum Extra",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-07-193000-2/?lang=de",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Improtheater"
+},
+{
+"d": "2026-12-07",
+"ti": "Ghoro-Mix – Jahresabschlusskonzert",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"art": "Chorkonzert"
+},
+{
+"d": "2026-12-08",
+"t": "19:00",
+"ti": "DRAG BOOM goes Graz",
+"o": "ARTist's",
+"k": "Kabarett & Kleinkunst",
+"u": "https://art.ists.at/",
+"m": [
+"NEU"
+],
+"art": "Dragshow"
+},
+{
+"d": "2026-12-08",
+"t": "19:30",
+"ti": "The Cover Girls: It's Christmas",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-08-193000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Weihnachts-Revue"
+},
+{
+"d": "2026-12-08",
+"t": "19:30",
+"ti": "Die Liederlichen „Leise rieselt der Schmäh“",
+"o": "Das LeBe",
+"k": "Kabarett & Kleinkunst",
+"u": "http://www.le-be.at/spielplan.html",
+"art": "Musikkabarett"
+},
+{
+"d": "2026-12-08",
+"t": "14:00",
+"ti": "Jazztett Forum Graz – Snowman's Tales",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/jazztett-forum-graz-snowmans-tales/",
+"art": "Jazz-Familienkonzert"
+},
+{
+"d": "2026-12-08",
+"t": "20:00",
+"ti": "Die Swinging Murcats (2. Dienstag)",
+"o": "Eschenlaube",
+"k": "Tanzen",
+"u": "https://eschenlaube.at/veranstaltungen/",
+"art": "Swing zum Tanzen"
+},
+{
+"d": "2026-12-09",
+"t": "19:30",
+"ti": "Flo & Wisch „Weihnachten Last Minute“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-09-193000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Kabarett-Duo"
+},
+{
+"d": "2026-12-09",
+"t": "20:00",
+"ti": "Andreas Rainer „Wiener Alltagspoeten“",
+"o": "Orpheum Extra",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-09-200000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Wiener Kabarett"
+},
+{
+"d": "2026-12-09",
+"t": "20:30",
+"ti": "Miss Jodie Fox „Volkskultureller Mehrwert“",
+"o": "Schauspielhaus Konsole",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-09-203000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Drag-Kabarett"
+},
+{
+"d": "2026-12-09",
+"t": "20:00",
+"ti": "Lukas Lauermann",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://www.facebook.com/events/1418997253447658/",
+"art": "Cello, experimentell"
+},
+{
+"d": "2026-12-09",
+"ti": "Lesung Claudia Bergles & Ausstellung Yvonne Heimbach",
+"o": "Die Brücke",
+"k": "Lesungen & Vorträge",
+"u": "https://diebruecke.social/events",
+"art": "Lesung & Ausstellung"
+},
+{
+"d": "2026-12-09",
+"ti": "Cuban Christmas – The Sarahbanda",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Kubanische Weihnachtsmusik"
+},
+{
+"d": "2026-12-09",
+"t": "20:00",
+"ti": "JBBG Smål feat. Tony Lakatos",
+"o": "Stockwerk",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/jbbg-smal-gran-riserva-feat-tony-lakatos/",
+"art": "Bigband-Jazz, Saxofon"
+},
+{
+"d": "2026-12-10",
+"auch": [
+"2026-12-11"
+],
+"t": "19:30",
+"ti": "Kernölamazonen „Kugel und Keks 2“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-10-193000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Musikkabarett-Duo"
+},
+{
+"d": "2026-12-10",
+"t": "20:00",
+"ti": "Turbobier",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-10-200000/?lang=de",
+"m": [
+"NEU"
+],
+"art": "Punkrock, Wien"
+},
+{
+"d": "2026-12-10",
+"t": "20:00",
+"ti": "Mel e Logan & Power",
+"o": "Café Wolf",
+"k": "Konzerte",
+"u": "https://www.facebook.com/cafewolfgraz/events",
+"art": "Konzert"
+},
+{
+"d": "2026-12-10",
+"ti": "Pia Baresch „Swingelingeling“ (TIPP)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Swing-Weihnachtskonzert"
+},
+{
+"d": "2026-12-10",
+"bis": "2026-12-12",
+"t": "20:00",
+"ti": "Dena DeRose Trio & guests",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/dena-derose-trio-guests/",
+"art": "US-Jazzgesang"
+},
+{
+"d": "2026-12-11",
+"t": "19:30",
+"ti": "Gastspiel „A Christmas Carol“",
+"o": "Schauspielhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Dickens, Gastspiel"
+},
+{
+"d": "2026-12-11",
+"t": "20:00",
+"ti": "Ehrenwort – Podcast über Skandale (live)",
+"o": "Orpheum",
+"k": "Lesungen & Vorträge",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Live-Podcast"
+},
+{
+"d": "2026-12-11",
+"ti": "Riccardo Grosso Blues Band (TIPP)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Blueskonzert"
+},
+{
+"d": "2026-12-11",
+"ti": "Kassettenkind (90's & 00's Alternative)",
+"o": "Postgarage",
+"k": "Feste & Partys",
+"u": "https://www.postgarage.at/program/",
+"m": [
+"NEU"
+],
+"art": "90er/00er-Party"
+},
+{
+"d": "2026-12-11",
+"t": "20:00",
+"ti": "»I AM FROM AUSTRIA« – Das Update!",
+"o": "Schauraum",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-11-200000-2/?lang=de",
+"zus": "auch 15./30.12.",
+"art": "Kabarett-Theater"
+},
+{
+"d": "2026-12-11",
+"t": "20:00",
+"ti": "45 Jahre Royal Garden Jazzclub",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/royal-garden-jazzclub-feiert-45-jahre/",
+"art": "Jazzclub-Jubiläum"
+},
+{
+"d": "2026-12-12",
+"t": "14:30–17:30",
+"ti": "Swingin at the Schauspielhaus (The Lindy Cats)",
+"o": "Schauspielhaus",
+"k": "Tanzen",
+"u": "https://www.thelindycats.at/de/termine",
+"art": "Swing-Tanznachmittag"
+},
+{
+"d": "2026-12-12",
+"ti": "Tante Hertas Buben",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Konzert"
+},
+{
+"d": "2026-12-12",
+"t": "19:00",
+"ti": "Daniela de Santos „Weihnachten, wie ich es mag…“",
+"o": "Basilika Mariatrost",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-12-190000/?lang=de",
+"art": "Weihnachtskonzert, Gesang"
+},
+{
+"d": "2026-12-12",
+"t": "19:30",
+"ti": "Christmas-Gala der Komödie Graz",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-12-193000/?lang=de",
+"art": "Weihnachtsgala"
+},
+{
+"d": "2026-12-12",
+"t": "19:30",
+"ti": "Kammermusikfestival-Winterkonzert (Oberton String Octet)",
+"o": "Maria Straßengel",
+"k": "Festivals",
+"u": "https://www.kammermusikfestival.at",
+"um": true,
+"art": "Streichoktett, Kammermusik"
+},
+{
+"d": "2026-12-12",
+"t": "20:00",
+"ti": "DOSSIER – Hinterzimmer",
+"o": "QUARTIER TiB",
+"k": "Theater & Oper",
+"u": "https://www.theater-im-bahnhof.com/de/schedule/2026-12",
+"art": "Freies Theater"
+},
+{
+"d": "2026-12-13",
+"t": "15:00",
+"ti": "La Damnation de Faust – zum letzten Mal",
+"o": "Oper",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"art": "Berlioz, Oper"
+},
+{
+"d": "2026-12-13",
+"t": "19:00",
+"ti": "OldSchoolBasterds",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Bandkonzert"
+},
+{
+"d": "2026-12-13",
+"auch": [
+"2026-12-14"
+],
+"t": "16:30/19:30",
+"ti": "Lilian Klebow & Gernot Haas „O Pannenbaum“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-14-193000/?lang=de",
+"art": "Weihnachtskomödie"
+},
+{
+"d": "2026-12-14",
+"auch": [
+"2026-12-15"
+],
+"ti": "Olari Elts, Estonian National SO, Daniel Müller-Schott",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Sinfoniekonzert, Cello"
+},
+{
+"d": "2026-12-15",
+"t": "19:30",
+"ti": "Schick Sisters „A Sisters Christmas“",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Weihnachts-Musikshow"
+},
+{
+"d": "2026-12-15",
+"t": "20:00",
+"ti": "KUG Stage Band Christmas",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/kug-stage-band-christmas/",
+"art": "Bigband-Weihnachtskonzert"
+},
+{
+"d": "2026-12-15",
+"t": "20:00",
+"ti": "Jazz Passengers – Christmas Special",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/jazz-passengers-christmas-special/",
+"art": "Jazz-Weihnachtsshow"
+},
+{
+"d": "2026-12-16",
+"t": "19:30",
+"ti": "Andreas Vitasek „Wie es mir gefällt“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-16-193000/?lang=de",
+"art": "Kabarett-Solo"
+},
+{
+"d": "2026-12-16",
+"t": "19:30",
+"ti": "KI-Pub-Quiz: Chat-Gitti vs. Publikum",
+"o": "Schauspielhaus Konsole",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Quizabend, Mitmachen"
+},
+{
+"d": "2026-12-16",
+"ti": "Swing-Café (The Lindy Cats)",
+"o": "Postgarage Café",
+"k": "Tanzen",
+"u": "https://www.postgarage.at/program/the-lindy-cats-pres-swing-caf%C3%A9_2026-12-16/",
+"art": "Swingtanz, Lindy Hop"
+},
+{
+"d": "2026-12-16",
+"t": "20:00",
+"ti": "Max Nagl Quintett – Phasolny",
+"o": "Stockwerk",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/max-nagl-quintett/",
+"art": "Jazz, Saxofon"
+},
+{
+"d": "2026-12-16",
+"bis": "2027-02-06",
+"t": "19:30",
+"ti": "Shirley Valentine",
+"o": "Das LeBe",
+"k": "Theater & Oper",
+"u": "http://www.le-be.at/spielplan.html",
+"art": "Monolog-Komödie"
+},
+{
+"d": "2026-12-17",
+"t": "18:00–22:00",
+"ti": "Latin Dance Party",
+"o": "GOLD & PECH Theater Höf",
+"k": "Tanzen",
+"u": "https://www.goldundpechmarie.at/event-details/latin-dance-party-2026-12-17-18-00",
+"m": [
+"NEU"
+],
+"um": true,
+"art": "Salsa & Bachata"
+},
+{
+"d": "2026-12-17",
+"t": "19:30",
+"ti": "Big Band Gala Sigi Feigl „A White Christmas“",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-17-193000/?lang=de",
+"art": "Bigband-Weihnachtsgala"
+},
+{
+"d": "2026-12-17",
+"ti": "Eddie Luis – Benefiz für die Brücke (TIPP)",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Benefiz-Konzert"
+},
+{
+"d": "2026-12-17",
+"bis": "2026-12-23",
+"ti": "Irish Xmas with Boxty (17./18./19./23.12., Zugaben 30.12. und 8.1.)",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"art": "Irish Folk, Weihnachten"
+},
+{
+"d": "2026-12-17",
+"bis": "2026-12-19",
+"t": "20:00",
+"ti": "Sipiagin – Alex & Nikita",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/sipiagin-alex-nikita/",
+"art": "Jazz, Trompete"
+},
+{
+"d": "2026-12-18",
+"ti": "Theater Mobil (Impro, SzenenWECHSEL)",
+"o": "Die Brücke",
+"k": "Kabarett & Kleinkunst",
+"u": "https://diebruecke.social/events",
+"art": "Improtheater"
+},
+{
+"d": "2026-12-18",
+"t": "20:00",
+"ti": "Game of Death (Impro-Solo Jacob Banigan)",
+"o": "QUARTIER TiB",
+"k": "Kabarett & Kleinkunst",
+"u": "https://www.theater-im-bahnhof.com/de/schedule/2026-12",
+"art": "Impro-Solo"
+},
+{
+"d": "2026-12-18",
+"bis": "2027-01-08",
+"t": "19:00",
+"ti": "Cirque Noël (bis 29.12. Gravity & Other Myths „CANON“, ab 2.1. Compañía de Circo „eia“ „SECRETS“)",
+"o": "Orpheum",
+"k": "Festivals",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-18-190000/?lang=de",
+"art": "Zeitgenössischer Zirkus"
+},
+{
+"d": "2026-12-18",
+"bis": "2026-12-20",
+"t": "19:30",
+"ti": "Simon Schwarz & Manuel Rubey „Liebe“ (Vorpremiere)",
+"o": "Komödie",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-18-193000/?lang=de",
+"m": [
+"PREMIERE",
+"KARTEN SICHERN"
+],
+"zus": "auch 14.1.2027 Orpheum",
+"art": "Theater-Duo, Liebe"
+},
+{
+"d": "2026-12-18",
+"t": "20:00",
+"ti": "Fiona Fergusson Quintett – Swingin X-Mas",
+"o": "Royal Garden",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/fiona-fergusson-quintett-swingin-x-mas/",
+"art": "Swing-Weihnachtskonzert"
+},
+{
+"d": "2026-12-19",
+"ti": "Best of the 80's",
+"o": "Postgarage",
+"k": "Feste & Partys",
+"u": "https://www.postgarage.at/program/best-of-the-80s_2026-12-19/",
+"art": "80er-Party"
+},
+{
+"d": "2026-12-19",
+"t": "21:00",
+"ti": "Karl Ratzer Trio – Weihnachtskonzert",
+"o": "Stockwerk",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/karl-ratzer-trio-6/",
+"art": "Jazzgitarre"
+},
+{
+"d": "2026-12-20",
+"ti": "Rebekka Bakken „Winter Nights“",
+"o": "Helmut List Halle",
+"k": "Konzerte",
+"u": "https://www.regioactive.de/konzert/rebekka-bakken-winter-nights-graz-helmut-list-halle-2026-12-20-zGYFRkbVDg",
+"m": [
+"KARTEN SICHERN"
+],
+"art": "Norwegischer Jazz-Pop"
+},
+{
+"d": "2026-12-20",
+"t": "16:30",
+"ti": "Erwin Steinhauer „Jingle Bells!“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-20-163000/?lang=de",
+"art": "Weihnachts-Kabarett"
+},
+{
+"d": "2026-12-21",
+"t": "19:30",
+"ti": "Kammerkonzert 4 »Getanzte Zeiten«",
+"o": "Oper Spiegelfoyer",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-21-193000/?lang=de",
+"art": "Kammermusik, Tänze"
+},
+{
+"d": "2026-12-21",
+"t": "20:00",
+"ti": "JugendJazzOrchester Steiermark – Weihnachtskonzert",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/jugendjazzorchester-steiermark-weihnachtskonzert/",
+"art": "Jugend-Bigband"
+},
+{
+"d": "2026-12-23",
+"t": "20:00",
+"ti": "Jazztett Forum Graz – Vorweihnachtskonzert",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/jazztett-forum-graz-vorweihnachtskonzert/",
+"art": "Jazz-Weihnachtskonzert"
+},
+{
+"d": "2026-12-29",
+"t": "19:30",
+"ti": "Best of Poetry Slam",
+"o": "Schauspielhaus",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-29-193000/?lang=de",
+"art": "Poetry Slam"
+},
+{
+"d": "2026-12-30",
+"t": "21:00",
+"ti": "Liedermacherabend (letzter Mittwoch)",
+"o": "Humboldtkeller",
+"k": "Konzerte",
+"u": "https://www.humboldtkeller.at/index.php/liedermacherabend",
+"art": "Offene Bühne, Liedermacher"
+},
+{
+"d": "2026-12-30",
+"t": "ab 16:00",
+"ti": "Bauernsilvester (DJ Pistol Pete)",
+"o": "Johann Waller Hütte, Schöckl",
+"k": "Feste & Partys",
+"u": "https://www.johannwallerhuette.at",
+"p": "€ 52",
+"um": true,
+"art": "Silvesterparty am Berg"
+},
+{
+"d": "2026-12-31",
+"t": "16:00/19:30",
+"ti": "Silvesterkabarett: Sprenger & Seberg (16:00), Michael Großschädl (19:30)",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-12-31-193000-2/?lang=de",
+"art": "Kabarett zu Silvester"
+},
+{
+"d": "2027-01-01",
+"t": "15:00",
+"ti": "Neujahrskonzert »¡España!«",
+"o": "Oper",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-01-150000/?lang=de",
+"art": "Neujahrskonzert, spanisch"
+},
+{
+"d": "2027-01-07",
+"t": "19:30",
+"ti": "Neujahrskonzert Girardi Ensemble",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-07-193000/?lang=de",
+"art": "Neujahrskonzert, Walzer"
+},
+{
+"d": "2027-01-09",
+"t": "16:00",
+"ti": "Omar Sarsam „STIMMT“",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-09-160000/?lang=de",
+"art": "Kabarett-Solo"
+},
+{
+"d": "2027-01-10",
+"ti": "Soso Mugiraneza „Ich bin kein Tabu“ (Stand-up)",
+"o": "ARTist's",
+"k": "Kabarett & Kleinkunst",
+"u": "https://art.ists.at/",
+"art": "Stand-up-Comedy"
+},
+{
+"d": "2027-01-11",
+"t": "19:30",
+"ti": "Tini Kainrath & Klezmer Reloaded",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-11-193000/?lang=de",
+"art": "Wienerlied & Klezmer"
+},
+{
+"d": "2027-01-11",
+"t": "20:00",
+"ti": "Wir Staatskünstler „Jahresrückblick 2026“",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-11-200000/?lang=de",
+"m": [
+"KARTEN SICHERN"
+],
+"art": "Politisches Kabarett"
+},
+{
+"d": "2027-01-13",
+"t": "19:30",
+"ti": "Swing-Café 13.1. und 27.1. (Lindy Cats)",
+"o": "Postgarage Café",
+"k": "Tanzen",
+"u": "https://www.thelindycats.at/de/termine",
+"art": "Swingtanz, Lindy Hop"
+},
+{
+"d": "2027-01-14",
+"t": "19:30",
+"ti": "Johannes Silberschneider liest Herzmanovsky-Orlando",
+"o": "Komödie",
+"k": "Lesungen & Vorträge",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-14-193000-2/?lang=de",
+"art": "Lesung, skurril"
+},
+{
+"d": "2027-01-14",
+"ti": "Brovtsyn, Várdai, Goloubitskaia",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Kammermusik, Klassik"
+},
+{
+"d": "2027-01-15",
+"auch": [
+"2027-01-16"
+],
+"t": "20:00",
+"ti": "Grossmütterchen Hatz feat. Jörg Mikula",
+"o": "Tube's",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/grossmuetterchen-hatz-feat-joerg-mikula/",
+"art": "Wiener Weltmusik"
+},
+{
+"d": "2027-01-15",
+"auch": [
+"2027-01-16"
+],
+"t": "19:30",
+"ti": "Dr. Bohl – SOLO",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-15-193000/?lang=de",
+"art": "Kabarett-Solo"
+},
+{
+"d": "2027-01-16",
+"t": "19:30",
+"ti": "Axel Milberg „live“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-16-193000-2/?lang=de",
+"art": "Lesung & Gespräch"
+},
+{
+"d": "2027-01-16",
+"t": "20:00",
+"ti": "Austrofred & Kurt Razelli",
+"o": "Orpheum Extra",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-16-200000/?lang=de",
+"art": "Musik-Comedy"
+},
+{
+"d": "2027-01-18",
+"t": "19:30",
+"ti": "Bandouba – The New Tango",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-18-193000/?lang=de",
+"art": "Tango-Konzert"
+},
+{
+"d": "2027-01-18",
+"t": "20:00",
+"ti": "Popensemble & Fusionensemble (KUG); 19.1. Latin Ensemble; 2.2. KUG Jazzorchester",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/popensemble-fusionensemble/",
+"art": "Pop & Fusion, KUG"
+},
+{
+"d": "2027-01-18",
+"auch": [
+"2027-01-19"
+],
+"ti": "François Leleux, Bruckner Orchester Linz, Liya Petrova",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Sinfoniekonzert, Violine"
+},
+{
+"d": "2027-01-20",
+"t": "19:30",
+"ti": "Chmelar & Prokopetz „FÜR und ZWIDER“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-20-193000/?lang=de",
+"art": "Kabarett-Duo"
+},
+{
+"d": "2027-01-20",
+"t": "20:00",
+"ti": "Ringlstetter & Band „Bellavista“",
+"o": "Orpheum",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-20-200000/?lang=de",
+"art": "Bayerisches Musikkabarett"
+},
+{
+"d": "2027-01-20",
+"bis": "2027-01-30",
+"ti": "Theater Kaendace „STILLGELEGT“ (20./22./23./24./28./29./30.1.)",
+"o": "ARTist's",
+"k": "Theater & Oper",
+"u": "https://art.ists.at/",
+"art": "Freies Theater"
+},
+{
+"d": "2027-01-21",
+"ti": "!nterpenetration 2.7.1: XENOFOX",
+"o": "HEDDA",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"zus": "weitere 18.2., 18.3., 15.4., 20.5.",
+"art": "Experimentelle Musik"
+},
+{
+"d": "2027-01-23",
+"t": "14:30–17:30",
+"ti": "Swingin at the Schauspielhaus",
+"k": "Tanzen",
+"u": "https://www.thelindycats.at/de/termine",
+"art": "Swing-Tanznachmittag"
+},
+{
+"d": "2027-01-23",
+"t": "19:30",
+"ti": "Premiere „Rusalka“ (Dvořák)",
+"o": "Oper",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-23-193000/?lang=de",
+"m": [
+"PREMIERE",
+"KARTEN SICHERN"
+],
+"art": "Dvořák-Oper"
+},
+{
+"d": "2027-01-23",
+"t": "19:30",
+"ti": "Fritz Karl & Streichquartett Sonare „Ach, Amerika!“",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-23-193000-2/?lang=de",
+"art": "Lesung mit Streichquartett"
+},
+{
+"d": "2027-01-23",
+"t": "20:00",
+"ti": "Grazer Bluestage Vol. 10",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-23-200000/?lang=de",
+"art": "Bluesfestival-Abend"
+},
+{
+"d": "2027-01-25",
+"ti": "Mozart & Salieri – Grazer Philharmoniker, Katharina Morin",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Orchesterkonzert, Klassik"
+},
+{
+"d": "2027-01-26",
+"t": "19:30",
+"ti": "Machinal",
+"o": "Schauspielhaus",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-26-193000/?lang=de",
+"art": "Schauspiel, Klassiker"
+},
+{
+"d": "2027-01-27",
+"auch": [
+"2027-01-28"
+],
+"t": "19:30",
+"ti": "Ernst Molden „Einzelgänger“",
+"o": "Komödie",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-27-193000/?lang=de",
+"art": "Wienerlied, Liedermacher"
+},
+{
+"d": "2027-01-28",
+"t": "19:30",
+"ti": "Zartbitter – REVUElutionär",
+"o": "Das LeBe",
+"k": "Theater & Oper",
+"u": "http://www.le-be.at/spielplan.html",
+"art": "Musikalische Revue"
+},
+{
+"d": "2027-01-28",
+"t": "20:00",
+"ti": "Manu Delago Ensemble",
+"o": "Dom im Berg",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-28-200000/?lang=de",
+"art": "Handpan & Weltmusik"
+},
+{
+"d": "2027-01-29",
+"t": "20:00",
+"ti": "Sebastian 23 „Zusammenhaltestelle“",
+"o": "Orpheum Extra",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-29-200000-2/?lang=de",
+"art": "Poetry-Kabarett"
+},
+{
+"d": "2027-01-30",
+"t": "20:00",
+"ti": "Premiere „Inter alia“",
+"o": "Schauspielhaus Schauraum",
+"k": "Theater & Oper",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-01-30-200000/?lang=de",
+"m": [
+"PREMIERE"
+],
+"art": "Schauspiel, Justizdrama"
+},
+{
+"d": "2027-02-01",
+"t": "19:30",
+"ti": "Szyszkowitz & Sittler „Gut gegen Nordwind“",
+"o": "Komödie",
+"k": "Kabarett & Kleinkunst",
+"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2027-02-01-193000/?lang=de",
+"art": "Szenische Lesung, Liebe"
+},
+{
+"d": "2027-02-02",
+"ti": "Janoska Ensemble „Beethoven im Janoska Style!“",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Klassik neu arrangiert"
+},
+{
+"d": "2027-02-22",
+"auch": [
+"2027-02-23"
+],
+"ti": "Christopoulos, Grazer Philharmoniker, Albrecht Mayer",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Orchesterkonzert, Oboe"
+},
+{
+"d": "2027-02-25",
+"ti": "Rudolf Buchbinder – Beethoven-Gala",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"KARTEN SICHERN"
+],
+"art": "Klavierabend, Beethoven"
+},
+{
+"d": "2027-03-04",
+"ti": "Jonathan Tetelman – Liederabend",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"KARTEN SICHERN"
+],
+"art": "Tenor, Liederabend"
+},
+{
+"d": "2027-03-06",
+"ti": "VKB Band: Vicki Kristina Barcelona",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/",
+"m": [
+"AUSVERKAUFT"
+],
+"art": "Bandkonzert"
+},
+{
+"d": "2027-03-08",
+"ti": "Anna Lapwood (Orgel)",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Orgelkonzert"
+},
+{
+"d": "2027-03-10",
+"ti": "Hidden Harmonies (Kammerkonzert)",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"NEU"
+],
+"art": "Kammermusik"
+},
+{
+"d": "2027-03-12",
+"t": "19:30",
+"ti": "„Die Tür nebenan“ (Roger-Lacan)",
+"o": "Das LeBe",
+"k": "Theater & Oper",
+"u": "http://www.le-be.at/spielplan.html",
+"art": "Beziehungskomödie"
+},
+{
+"d": "2027-03-15",
+"auch": [
+"2027-03-16"
+],
+"ti": "Andreas & Daniel Ottensamer, Grazer Philharmoniker",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"NEU"
+],
+"art": "Klarinette & Orchester"
+},
+{
+"d": "2027-04-01",
+"ti": "Trio Orelon",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Klaviertrio, Klassik"
+},
+{
+"d": "2027-04-13",
+"ti": "Patricia Nolz & Malcolm Martineau – Liederabend",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Liederabend, Mezzo"
+},
+{
+"d": "2027-04-19",
+"auch": [
+"2027-04-20"
+],
+"ti": "Markus Poschner, ORF RSO Wien, Edgar Moreau",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"art": "Sinfoniekonzert, Cello"
+},
+{
+"d": "2027-04-26",
+"ti": "10 Jahre LJSO Steiermark (Festkonzert)",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"NEU"
+],
+"art": "Jugendorchester, Festkonzert"
+},
+{
+"d": "2027-05-10",
+"bis": "2027-05-19",
+"ti": "Musikverein Pfingstfestival 2027: 10.5. Lisette Oropesa & Vlad Iftinca",
+"o": "13.5. Quatuor Ébène",
+"k": "Festivals",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"KARTEN SICHERN",
+"NEU"
+],
+"art": "Klassikfestival, Wiener Philharmoniker"
+},
+{
+"d": "2027-05-31",
+"auch": [
+"2027-06-01"
+],
+"ti": "Christopoulos, Grazer Philharmoniker, Neira Muhić",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"NEU"
+],
+"art": "Orchesterkonzert"
+},
+{
+"d": "2027-06-03",
+"ti": "Francesco Meli, Luca Salsi, Nelson Calzi – Liederabend",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"NEU"
+],
+"art": "Opernstars, Liederabend"
+},
+{
+"d": "2027-06-14",
+"ti": "Dennis Russell Davies, Brünner Philharmoniker, Fazil Say",
+"o": "Musikverein",
+"k": "Konzerte",
+"u": "https://musikverein-graz.at/kalender/",
+"m": [
+"NEU"
+],
+"art": "Sinfoniekonzert, Klavier"
+},
+{
+"d": "2027-01-13",
+"auch": [
+"2027-02-24",
+"2027-03-17",
+"2027-04-21",
+"2027-05-26",
+"2027-06-16",
+"2027-09-29",
+"2027-10-20",
+"2027-11-24"
+],
+"ti": "Mord vor Ort (Impro)",
+"o": "Die Brücke",
+"k": "Kabarett & Kleinkunst",
+"u": "https://diebruecke.social/events",
+"art": "Impro-Krimi"
+},
+{
+"d": "2027-02-06",
+"ti": "Rock the Dog",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Rockkonzert"
+},
+{
+"d": "2027-02-27",
+"ti": "Sanjin Banic",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Konzert"
+},
+{
+"d": "2027-03-02",
+"ti": "Musikstammtisch",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Offener Musikabend"
+},
+{
+"d": "2027-03-04",
+"ti": "JOLEK „Ahnungslos“ (Kabarett)",
+"o": "Die Brücke",
+"k": "Kabarett & Kleinkunst",
+"u": "https://diebruecke.social/events",
+"art": "Kabarett"
+},
+{
+"d": "2027-03-05",
+"ti": "3 Bengel und Charly",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Konzert"
+},
+{
+"d": "2027-03-06",
+"ti": "Corry Gass",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Konzert"
+},
+{
+"d": "2027-04-03",
+"ti": "Son of the Velvet Rat",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Americana, Singer-Songwriter"
+},
+{
+"d": "2027-04-09",
+"ti": "Raphael Wressnig",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Hammond-Blues & Soul"
+},
+{
+"d": "2027-04-16",
+"ti": "Dominik Plangger & Claudia Fenzl",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Liedermacher-Konzert"
+},
+{
+"d": "2027-06-04",
+"ti": "Peter Kern",
+"o": "Die Brücke",
+"k": "Konzerte",
+"u": "https://diebruecke.social/events",
+"art": "Konzert"
+},
+{
+"d": "2027-07-01",
+"ti": "Freilufttheater „Landluft“ (Juli/Aug)",
+"o": "Huab'n-Theater Brandlucken",
+"k": "Theater & Oper",
+"u": "https://huabn-theater.at/jahresueberblick/",
+"m": [
+"VVK AB 1.12.2026"
+],
+"um": true,
+"vvk": "2026-12-01",
+"art": "Freilufttheater, Komödie"
+},
+{
+"d": "2027-09-03",
+"t": "20:00",
+"ti": "Gernot Kulis „Ich kann nicht anders!“",
+"o": "Huab'n-Theater Brandlucken",
+"k": "Kabarett & Kleinkunst",
+"u": "https://huabn-theater.at/jahresueberblick/",
+"um": true,
+"art": "Comedy-Solo"
+}
+]
+}
