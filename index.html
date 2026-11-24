@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<style>body{margin:0}[hidden]{display:none!important}</style>
+<title>Chrisi's Kulturkalender</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: Zeitungsspalte wie die Mail – Kopf, Filterleiste, Tage mit Eintragszeilen, darunter "Läuft gerade" */
+:root{
+  --bg:#faf6ef; --kopf:#f1e9dc; --ink:#1a1a1a; --leise:#6a5f52; --rest:#5d554b;
+  --rot:#b5262e; --linie:rgba(0,0,0,.09); --chip:#ffffff; --tipp:#fff3d6;
+  --serif:Georgia,'Times New Roman',serif; --sans:Arial,Helvetica,sans-serif; --mono:'Courier New',monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1c1a17; --kopf:#27231f; --ink:#efe7da; --leise:#a99d8c; --rest:#bcb2a3;
+  --rot:#e2646a; --linie:rgba(255,255,255,.1); --chip:#2c2824; --tipp:#3a3220; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1c1a17; --kopf:#27231f; --ink:#efe7da; --leise:#a99d8c; --rest:#bcb2a3;
+  --rot:#e2646a; --linie:rgba(255,255,255,.1); --chip:#2c2824; --tipp:#3a3220; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--serif);font-size:16px;line-height:1.5}
+.spalte{max-width:760px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{background:var(--kopf);border-top:8px solid var(--ink)}
+header .spalte{padding-block:18px 14px}
+.kicker{font-family:var(--sans);font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--leise)}
+h1{font-size:clamp(32px,7vw,42px);line-height:1.05;letter-spacing:-1px;margin:4px 0 2px;text-wrap:balance}
+h1 span{color:var(--rot)}
+.unter{font-style:italic;color:var(--leise)}
+.hinweis{font-family:var(--sans);font-size:12px;color:var(--leise);margin-top:4px}
+.hinweis b{color:var(--rot)}
+.filter{display:flex;flex-direction:column;gap:10px;padding-block:14px 6px}
+.reihe{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.label{font-family:var(--sans);font-size:11px;letter-spacing:2px;font-weight:bold;color:var(--leise);text-transform:uppercase;min-width:72px}
+.chip{font-family:var(--sans);font-size:13px;padding:5px 10px;border:1px solid var(--linie);background:var(--chip);color:var(--ink);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,input:focus-visible,a:focus-visible,button:focus-visible{outline:2px solid var(--rot);outline-offset:2px}
+#suche{font-family:var(--sans);font-size:15px;padding:8px 10px;border:1px solid var(--linie);background:var(--chip);color:var(--ink);width:100%;box-sizing:border-box}
+.haken{font-family:var(--sans);font-size:13px;color:var(--rest);display:flex;gap:14px;flex-wrap:wrap}
+.haken label{display:flex;gap:5px;align-items:center;cursor:pointer}
+.zahl{font-family:var(--sans);font-size:12px;color:var(--leise);padding-block:6px 0}
+h2{font-size:24px;margin:24px 0 6px;border-bottom:2px solid var(--ink);padding-bottom:4px;text-wrap:balance}
+h2 small{font-family:var(--sans);font-size:12px;font-weight:normal;color:var(--leise);letter-spacing:1px;margin-left:8px}
+.zeile{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:4px 8px;padding:6px 0;font-size:14px;line-height:1.35;border-bottom:1px solid var(--linie)}
+.zeit{font-family:var(--mono);font-size:13px;color:var(--rot);font-weight:bold;font-variant-numeric:tabular-nums;padding-top:1px}
+.titel{color:var(--ink);font-weight:bold;text-decoration:none;font-size:15px}
+.titel .pf{color:var(--rot)}
+.titel:hover{text-decoration:underline}
+.mk{font-family:var(--sans);font-size:10.5px;font-weight:bold;color:var(--rot);letter-spacing:.5px;margin-left:6px;white-space:nowrap}
+.mk.aus{color:var(--leise);text-decoration:line-through}
+.rest{color:var(--rest)}
+.art{font-style:italic;color:var(--rest);font-size:14px}
+.preis{color:var(--rest);font-family:var(--sans);font-size:12px;white-space:nowrap}
+.preis.frei{color:var(--rot);font-weight:bold}
+.kat{font-family:var(--sans);font-size:10.5px;letter-spacing:1px;color:var(--leise);text-transform:uppercase}
+.aktion{display:flex;gap:2px;align-items:flex-start}
+.aktion a,.aktion button{font-size:16px;line-height:1;text-decoration:none;background:none;border:0;padding:4px;cursor:pointer;color:var(--ink)}
+.stern[aria-pressed="true"]{color:var(--rot)}
+.zwischen{font-family:var(--sans);font-size:11px;letter-spacing:2px;font-weight:bold;color:var(--leise);text-transform:uppercase;margin:12px 0 2px}
+.leer{font-style:italic;color:var(--leise);padding:20px 0}
+footer{margin-top:32px;background:var(--ink);color:var(--bg)}
+footer .spalte{padding-block:18px 24px;font-family:var(--sans);font-size:13px}
+footer p{margin:0 0 6px}
+.ausverkauft .titel{color:var(--leise)}
+@media (max-width:480px){.zeile{grid-template-columns:44px minmax(0,1fr) auto}.label{min-width:100%}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+
+
+<header><div class="spalte">
+  <div class="kicker" id="kicker">Alle Termine · Graz und eine Stunde rundum</div>
+  <h1>Chrisi's Kulturkalender<span>.</span></h1>
+  <div class="unter">Bühne, Musik, Worte – Graz und eine Stunde rundum.</div>
+  <div class="hinweis">Jeder Titel ist ein Link – antippen für Details und Karten <b>›</b> · 📅 in den eigenen Kalender · ☆ merken</div>
+</div></header>
+
+<main class="spalte">
+  <section class="filter" aria-label="Filter">
+    <input id="suche" type="search" placeholder="Suchen: Künstler, Titel, Ort …" aria-label="Suchen">
+    <div class="reihe" id="zeitraum"><span class="label">Wann</span></div>
+    <div class="reihe" id="sparten"><span class="label">Sparte</span></div>
+    <div class="reihe" id="region"><span class="label">Wo</span></div>
+    <div class="haken">
+      <label><input type="checkbox" id="ohneAus"> Ausverkaufte ausblenden</label>
+      <label><input type="checkbox" id="nurMerk"> Nur meine Merkliste</label>
+      <label><input type="checkbox" id="nurNeu"> Nur Neues</label>
+    </div>
+    <div class="zahl" id="zahl">Termine werden geladen …</div>
+  </section>
+  <div id="liste"></div>
+</main>
+
+<footer><div class="spalte">
+  <p id="stand">Zusammengestellt von Chrisi mit Claude.</p>
+  <p>Aktualisiert sich mit jeder Ausgabe (Mo, Mi, Fr und Sonntag). Die Merkliste ☆ bleibt nur in deinem Browser gespeichert.</p>
+  <p>Feedback oder eine Spielstätte vorschlagen: <a href="mailto:kulturkalender.chrisi26@outlook.com?subject=FEEDBACK%20Website" style="color:inherit">kulturkalender.chrisi26@outlook.com</a></p>
+</div></footer>
+
+<script>
+(function(){
+const SPARTEN=['Theater & Oper','Konzerte','Kabarett & Kleinkunst','Lesungen & Vorträge','Festivals','Tanzen','Feste & Partys','Ausstellungen'];
+const ZEITRAUM=[['heute','Heute'],['morgen','Morgen'],['wochenende','Wochenende'],['7','7 Tage'],['28','4 Wochen'],['alle','Alles']];
+const REGION=[['alle','Überall'],['graz','Graz'],['umland','Umland']];
+const TAGE=['So','Mo','Di','Mi','Do','Fr','Sa'];
+const MONATE=['Jänner','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
+let daten=[], f={zeit:'7', sparten:new Set(), region:'alle', q:'', ohneAus:false, nurMerk:false, nurNeu:false};
+let merk=new Set();
+try{merk=new Set(JSON.parse(localStorage.getItem('kk_merk')||'[]'))}catch(e){}
+try{const s=JSON.parse(localStorage.getItem('kk_filter')||'null'); if(s){f.zeit=s.zeit||f.zeit; f.region=s.region||f.region; f.sparten=new Set(s.sparten||[]);}}catch(e){}
+const speichern=()=>{try{localStorage.setItem('kk_filter',JSON.stringify({zeit:f.zeit,region:f.region,sparten:[...f.sparten]}))}catch(e){}};
+const iso=d=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+const ausIso=s=>{const [y,m,d]=s.split('-').map(Number);return new Date(y,m-1,d)};
+const plus=(s,n)=>{const d=ausIso(s);d.setDate(d.getDate()+n);return iso(d)};
+const heute=iso(new Date());
+const kurz=s=>{const d=ausIso(s);return TAGE[d.getDay()]+' '+d.getDate()+'.'+(d.getMonth()+1)+'.'};
+const lang=s=>{const d=ausIso(s);const w=['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'][d.getDay()];
+  const pre=s===heute?'Heute, ':s===plus(heute,1)?'Morgen, ':'';return pre+w+' '+d.getDate()+'. '+MONATE[d.getMonth()]};
+const id=e=>(e.d+'|'+e.ti).slice(0,120);
+const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function bereich(){
+  if(f.zeit==='heute') return [heute,heute];
+  if(f.zeit==='morgen') {const m=plus(heute,1);return [m,m]}
+  if(f.zeit==='wochenende'){const d=new Date();const wd=d.getDay();
+    const fr=wd===0?plus(heute,-2):wd===6?plus(heute,-1):plus(heute,5-wd);
+    const von=fr<heute?heute:fr; return [von,plus(fr,2)]}
+  if(f.zeit==='alle') return [heute,'9999-12-31'];
+  return [heute,plus(heute,Number(f.zeit)-1)];
+}
+function termineVon(e){ // Liste konkreter Tage
+  let t=[e.d].concat(e.auch||[]);
+  if(e.bis){const n=(ausIso(e.bis)-ausIso(e.d))/864e5; if(n<=10){t=[];for(let i=0;i<=n;i++)t.push(plus(e.d,i))} else t=[e.d<heute?heute:e.d];}
+  return [...new Set(t)].sort();
+}
+function kalender(e,tag){
+  const t=(e.t||'').match(/(\d\d):(\d\d)/);let dates;
+  const ymd=tag.replace(/-/g,'');
+  if(t){const s=ymd+'T'+t[1]+t[2]+'00';const end=new Date(ausIso(tag));end.setHours(+t[1]+2,+t[2]);
+    const e2=iso(end).replace(/-/g,'')+'T'+String(end.getHours()).padStart(2,'0')+String(end.getMinutes()).padStart(2,'0')+'00';dates=s+'/'+e2}
+  else dates=ymd+'/'+plus(tag,1).replace(/-/g,'');
+  const p=new URLSearchParams({action:'TEMPLATE',text:e.ti,dates:dates,ctz:'Europe/Vienna',location:e.o||'',details:e.u||''});
+  return 'https://calendar.google.com/calendar/render?'+p.toString();
+}
+function passt(e){
+  if(f.sparten.size && !f.sparten.has(e.k)) return false;
+  if(f.region==='graz'&&e.um) return false;
+  if(f.region==='umland'&&!e.um) return false;
+  if(f.ohneAus&&(e.m||[]).includes('AUSVERKAUFT')) return false;
+  if(f.nurNeu&&!(e.m||[]).includes('NEU')) return false;
+  if(f.nurMerk&&!merk.has(id(e))) return false;
+  if(f.q){const h=(e.ti+' '+(e.o||'')+' '+e.k+' '+(e.art||'')+' '+(e.zus||'')).toLowerCase(); if(!f.q.split(/\s+/).every(w=>h.includes(w))) return false}
+  return true;
+}
+function zeileHtml(e,tag,mitDatum){
+  const aus=(e.m||[]).includes('AUSVERKAUFT');
+  const mk=(e.m||[]).map(x=>'<span class="mk">'+esc(x)+'</span>').join('');
+  const zeit=mitDatum?(e.bis?'bis '+kurz(e.bis).split(' ')[1]:''):(esc((e.t||'').replace(/^ab /,'')) || '–');
+  const andere=termineVon(e).filter(x=>x!==tag&&x>=heute);
+  let rest=[esc(e.o)];
+  if(e.zus) rest.push(esc(e.zus));
+  else if(andere.length&&andere.length<8&&!e.bis) rest.push('auch '+andere.map(kurz).join(', '));
+  if(e.bis&&!mitDatum) rest.push('bis '+kurz(e.bis));
+  const titel=e.u?'<a class="titel" href="'+esc(e.u)+'" target="_blank" rel="noopener">'+esc(e.ti)+'<span class="pf"> ›</span></a>':'<span class="titel">'+esc(e.ti)+'</span>';
+  const preis=e.p?'<span class="preis'+(e.p==='Eintritt frei'?' frei':'')+'"> · '+esc(e.p)+'</span>':'';
+  const st=merk.has(id(e));
+  const art=e.art?'<span class="art"> · '+esc(e.art)+'</span>':'';
+  return '<div class="zeile'+(aus?' ausverkauft':'')+'"><span class="zeit">'+zeit+'</span><div>'+titel+art+mk+
+    '<div><span class="rest">'+rest.filter(Boolean).join(' – ')+'</span>'+preis+' <span class="kat">· '+esc(e.k)+(e.um?' · Umland':'')+'</span></div></div>'+
+    '<div class="aktion">'+(mitDatum?'':'<a href="'+esc(kalender(e,tag))+'" target="_blank" rel="noopener" title="In den Kalender" aria-label="In den Kalender">📅</a>')+
+    '<button class="stern" data-id="'+esc(id(e))+'" aria-pressed="'+st+'" title="Merken" aria-label="Merken">'+(st?'★':'☆')+'</button></div></div>';
+}
+function zeichnen(){
+  const [von,bis]=bereich();
+  const tage={}; const laufend=[]; let n=0;
+  for(const e of daten){ if(!passt(e)) continue;
+    if(e.lauf){ if((!e.bis||e.bis>=von)&&e.d<=bis){laufend.push(e);n++} continue }
+    let drin=false;
+    for(const t of termineVon(e)){ if(t>=von&&t<=bis){(tage[t]=tage[t]||[]).push(e);drin=true} }
+    if(drin) n++;
+  }
+  let h='';
+  for(const t of Object.keys(tage).sort()){
+    const l=tage[t].sort((a,b)=>((a.um?1:0)-(b.um?1:0))||(a.t||'99').localeCompare(b.t||'99'));
+    h+='<h2>'+lang(t)+'<small>'+l.length+' Termine</small></h2>';
+    let umSeit=false;
+    for(const e of l){ if(e.um&&!umSeit){umSeit=true;h+='<div class="zwischen">Im Grazer Umland</div>'} h+=zeileHtml(e,t,false) }
+  }
+  if(laufend.length){h+='<h2>Läuft gerade<small>Ausstellungen & Märkte</small></h2>'+laufend.map(e=>zeileHtml(e,heute,true)).join('')}
+  if(!h) h='<p class="leer">Keine Termine für diese Auswahl. Zeitraum auf „Alles“ stellen oder Filter lockern.</p>';
+  document.getElementById('liste').innerHTML=h;
+  document.getElementById('zahl').textContent=n+' Veranstaltungen'+(f.zeit==='alle'?' insgesamt':' im gewählten Zeitraum');
+}
+function chips(boxId,liste,aktiv,klick){
+  const box=document.getElementById(boxId);
+  liste.forEach(([wert,text])=>{const b=document.createElement('button');b.className='chip';b.type='button';b.textContent=text;b.id=boxId+'-'+wert.replace(/\W/g,'');
+    b.setAttribute('aria-pressed',aktiv(wert));b.onclick=()=>{klick(wert);box.querySelectorAll('.chip').forEach((c,i)=>c.setAttribute('aria-pressed',aktiv(liste[i][0])));speichern();zeichnen()};box.appendChild(b)});
+}
+chips('zeitraum',ZEITRAUM,w=>f.zeit===w,w=>f.zeit=w);
+chips('sparten',[['alle','Alle']].concat(SPARTEN.map(s=>[s,s])),w=>w==='alle'?f.sparten.size===0:f.sparten.has(w),
+  w=>{if(w==='alle')f.sparten.clear();else f.sparten.has(w)?f.sparten.delete(w):f.sparten.add(w)});
+chips('region',REGION,w=>f.region===w,w=>f.region=w);
+document.getElementById('suche').addEventListener('input',e=>{f.q=e.target.value.trim().toLowerCase();zeichnen()});
+['ohneAus','nurMerk','nurNeu'].forEach(k=>document.getElementById(k).addEventListener('change',e=>{f[k]=e.target.checked;zeichnen()}));
+document.getElementById('liste').addEventListener('click',ev=>{const b=ev.target.closest('.stern');if(!b)return;
+  const k=b.dataset.id;merk.has(k)?merk.delete(k):merk.add(k);try{localStorage.setItem('kk_merk',JSON.stringify([...merk]))}catch(e){};zeichnen()});
+fetch('termine.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(j=>{
+  daten=j.termine||[];
+  const s=ausIso(j.stand);document.getElementById('stand').textContent='Stand: '+lang(j.stand).replace(/^(Heute|Morgen), /,'')+' '+s.getFullYear()+' · '+daten.length+' Einträge · Zusammengestellt von Chrisi mit Claude.';
+  zeichnen();
+}).catch(()=>{document.getElementById('zahl').textContent='Die Termine konnten nicht geladen werden. Bitte die Seite neu laden.'});
+})();
+</script>
+
+</body>
+</html>
