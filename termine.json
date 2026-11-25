@@ -1,5 +1,5 @@
 {
-"stand": "2026-11-24",
+"stand": "2026-11-25",
 "termine": [
 {
 "d": "2026-12-20",
@@ -50,7 +50,7 @@
 "o": "Straßganger Kulturzentrum",
 "k": "Ausstellungen",
 "lauf": true,
-"u": "https://kultur.graz.at/kalender/event/1793865718",
+"u": "https://www.strassgangerkulturzentrum.at/",
 "art": "Gruppenausstellung bildende Kunst"
 },
 {
@@ -90,7 +90,7 @@
 "art": "Kunst zum Mitnehmen"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "Martin Maloney",
 "o": "Grazer Kunstverein",
 "k": "Ausstellungen",
@@ -99,7 +99,7 @@
 "art": "Malerei, Einzelschau"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "Valérie Jouve „The Outside Inside“",
 "o": "Camera Austria",
 "k": "Ausstellungen",
@@ -108,7 +108,7 @@
 "art": "Fotografie-Ausstellung"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "Eilfried Huth „TOHOWABOHU – Stille & Gewalt“",
 "o": "KULTUM",
 "k": "Ausstellungen",
@@ -117,7 +117,7 @@
 "art": "Architekt, Werkschau"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "„GOTT HAT KEIN MUSEUM“",
 "o": "KULTUM",
 "k": "Ausstellungen",
@@ -126,7 +126,7 @@
 "art": "Religion & Gegenwartskunst"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "„Morgen war alles besser. Im Graz der 70er“",
 "o": "Graz Museum",
 "k": "Ausstellungen",
@@ -135,7 +135,7 @@
 "art": "Stadtgeschichte 1970er"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "„Demokratie, heast!“",
 "o": "Graz Museum",
 "k": "Ausstellungen",
@@ -144,7 +144,7 @@
 "art": "Ausstellung über Demokratie"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "„Das kolossale Landtier“",
 "o": "rotor",
 "k": "Ausstellungen",
@@ -153,7 +153,7 @@
 "art": "Gegenwartskunst"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "Klaus Kada „Nuancen und Atmosphären“ / Bettina Paschke „Linien ziehen“",
 "o": "MUWA",
 "k": "Ausstellungen",
@@ -162,7 +162,7 @@
 "art": "Architektur & Zeichnung"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "„Altersgeschichten“",
 "o": "Volkskundemuseum",
 "k": "Ausstellungen",
@@ -171,7 +171,7 @@
 "art": "Ausstellung übers Älterwerden"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "Adventmarkt im Steirischen Heimatwerk",
 "k": "Feste & Partys",
 "lauf": true,
@@ -185,7 +185,7 @@
 "o": "Galerie Sommer",
 "zus": "Vernissage",
 "k": "Ausstellungen",
-"u": "https://kultur.graz.at/kalender/event/1794902975",
+"u": "https://www.galeriesommer.com/",
 "m": [
 "NEU"
 ],
@@ -198,7 +198,7 @@
 "o": "Galerie Bachlechner",
 "zus": "Vernissage",
 "k": "Ausstellungen",
-"u": "https://kultur.graz.at/kalender/event/1794901719",
+"u": "https://www.galeriebachlechner.com/",
 "m": [
 "NEU"
 ],
@@ -210,14 +210,14 @@
 "ti": "„Die Rede des großen Diktators“ Charlie Chaplin",
 "o": "Galerie Centrum Graz",
 "k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1794916839",
+"u": "https://galeriecentrum.net/austellung/die-rede-des-grossen-diktators-charlie-chaplin",
 "m": [
 "NEU"
 ],
 "art": "Chaplin-Rede, Abend"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "bis": "2026-12-20",
 "ti": "Adventmärkte im Umland",
 "o": "Stainz, Lannach, Pöllau, Brandlucken, Hartberg, Gleisdorf",
@@ -228,7 +228,7 @@
 "art": "Adventmärkte rund um Graz"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "ti": "„AMAITHI“ – Ingrid Wieser (freitags ab 15:00)",
 "o": "Krois Haus Stainz",
 "k": "Ausstellungen",
@@ -238,7 +238,7 @@
 "art": "Malerei, Ausstellung"
 },
 {
-"d": "2026-11-24",
+"d": "2026-11-25",
 "bis": "2026-11-29",
 "t": "20:00",
 "ti": "Schlossfestspiele Piber „Der Hochzeitstag“ (Nestroy)",
@@ -251,61 +251,6 @@
 },
 {
 "d": "2026-11-24",
-"t": "19:00",
-"ti": "Premiere „Abschied von der Arbeit – Morgen bin ich Pensionistin“",
-"o": "QUARTIER TiB",
-"k": "Theater & Oper",
-"u": "https://www.theater-im-bahnhof.com/de/schedule",
-"m": [
-"PREMIERE",
-"KARTEN SICHERN"
-],
-"zus": "bis 28.11.",
-"art": "Freies Theater, Uraufführung"
-},
-{
-"d": "2026-11-24",
-"t": "19:00",
-"ti": "Cordula Simon & Johannes Wally",
-"o": "Literaturhaus",
-"k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1793184559",
-"art": "Lesung, Gegenwartsliteratur"
-},
-{
-"d": "2026-11-24",
-"t": "18:00",
-"ti": "rotor Kunstpreis 2025 Verleihung",
-"k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1794919513",
-"m": [
-"NEU"
-],
-"art": "Preisverleihung Kunst"
-},
-{
-"d": "2026-11-24",
-"t": "19:30",
-"ti": "Robert Palfrader „Testament“",
-"o": "Komödie",
-"k": "Kabarett & Kleinkunst",
-"u": "https://ticketzentrum.buehnen-graz.com/vorstellung/2026-11-24-193000/?lang=de",
-"m": [
-"AUSVERKAUFT"
-],
-"art": "Kabarett-Solo"
-},
-{
-"d": "2026-11-24",
-"t": "19:30",
-"ti": "Annett Louisan „Sehnsucht“",
-"o": "Orpheum",
-"k": "Konzerte",
-"u": "https://www.oeticket.com/event/annett-louisan-sehnsucht-orpheum-graz-20751756/",
-"art": "Deutscher Chanson-Pop"
-},
-{
-"d": "2026-11-24",
 "auch": [
 "2026-11-25",
 "2026-11-27",
@@ -315,7 +260,7 @@
 "ti": "ARM GEMACHT",
 "o": "Theater am Lend",
 "k": "Theater & Oper",
-"u": "https://kultur.graz.at/kalender/event/1794297183",
+"u": "https://www.interact-online.org/",
 "m": [
 "PREMIERE"
 ],
@@ -330,7 +275,7 @@
 "ti": "LIEB ICH",
 "o": "Graz",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1793604271",
+"u": "https://zweiteliga.weblog.mur.at/",
 "art": "Musikabend"
 },
 {
@@ -342,29 +287,8 @@
 "ti": "„Lieder, die lustig sind …“",
 "o": "Theatercafé",
 "k": "Kabarett & Kleinkunst",
-"u": "https://kultur.graz.at/kalender/event/1793878809",
+"u": "https://www.hinwider.com/",
 "art": "Heiterer Liederabend"
-},
-{
-"d": "2026-11-24",
-"t": "20:00",
-"ti": "Jazz Passengers – Money In The Pocket",
-"o": "Tube's",
-"k": "Konzerte",
-"u": "https://www.tubes-music.at/de/",
-"m": [
-"AUSVERKAUFT"
-],
-"art": "New Yorker Jazz"
-},
-{
-"d": "2026-11-24",
-"t": "20:00",
-"ti": "Deutsch-Ginot",
-"o": "MUWA",
-"k": "Konzerte",
-"u": "https://www.grazjazz.at/event/deutsch-ginot/",
-"art": "Jazzkonzert"
 },
 {
 "d": "2026-11-25",
@@ -372,7 +296,7 @@
 "ti": "Tanzcafé / ChaChaCha",
 "o": "Café Wolf",
 "k": "Tanzen",
-"u": "https://kultur.graz.at/kalender/event/1788954837",
+"u": "https://www.cafewolf.at/programm",
 "art": "Tanznachmittag, Paartanz"
 },
 {
@@ -381,7 +305,7 @@
 "ti": "Musik am Mittwoch: Young Academy Styria",
 "o": "Salon Stolz",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1789030380",
+"u": "https://salonstolz.at/musik-am-mittwoch-young-academy-styria/",
 "m": [
 "NEU"
 ],
@@ -393,7 +317,7 @@
 "ti": "Makabærett – Auf der Suche nach Heiterkeit",
 "o": "Stockwerk",
 "k": "Kabarett & Kleinkunst",
-"u": "https://kultur.graz.at/kalender/event/1794902182",
+"u": "https://eventfrog.at/de/p/comedy/comedy-kabarett/makabaerett-auf-der-suche-nach-heiterkeit-graz-7518233097097193445.html",
 "m": [
 "NEU"
 ],
@@ -405,7 +329,7 @@
 "ti": "Where Do We Go from Here? – Part III",
 "o": "Graz",
 "k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1794991700",
+"u": "https://www.gkp-kultur.at/",
 "m": [
 "NEU"
 ],
@@ -417,7 +341,7 @@
 "ti": "Laura Freudenthaler: Geistergeschichte",
 "o": "Literaturhaus",
 "k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1793184757",
+"u": "https://www.literaturhaus-graz.at/veranstaltung/laura-freudenthaler-geistergeschichte/",
 "art": "Lesung, Roman"
 },
 {
@@ -483,7 +407,7 @@
 "ti": "Pfiat Di Gott – MGV Stallhofen",
 "o": "Café Wolf",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1783320985",
+"u": "https://www.facebook.com/events/1561767752341281",
 "art": "Männerchor, Volksmusik"
 },
 {
@@ -522,7 +446,7 @@
 "ti": "Dirk Stermann: Die Republik der Irren",
 "o": "RESOWI",
 "k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1794297654",
+"u": "https://interdisciplinary-transnational.uni-graz.at/en/",
 "art": "Lesung, Satire"
 },
 {
@@ -531,7 +455,7 @@
 "ti": "Musica e Gusto – Benvenuti al Sud",
 "o": "Stefaniensaal",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1793356518",
+"u": "https://www.oeticket.com/event/musica-gusto-musica-e-gusto-benvenuti-al-sud-congress-graz-21485634/",
 "m": [
 "NEU"
 ],
@@ -543,7 +467,7 @@
 "ti": "Humor als Quelle der Kraft in schwierigen Zeiten",
 "o": "Bildungsforum Minoriten",
 "k": "Lesungen & Vorträge",
-"u": "https://kultur.graz.at/kalender/event/1793362625",
+"u": "https://www.bildungsforum-m.at/einrichtung/98791/kalender/calendar/2567068.html&ts=1793349432050",
 "art": "Vortrag, Humor"
 },
 {
@@ -606,7 +530,7 @@
 "ti": "Archive Pleasure Social Club",
 "o": "Café Wolf",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1794819849",
+"u": "https://www.facebook.com/events/1388787306560046",
 "m": [
 "NEU"
 ],
@@ -621,7 +545,7 @@
 "ti": "„Noch da! 100 Jahr, blondes Haar“",
 "o": "Theatercafé",
 "k": "Kabarett & Kleinkunst",
-"u": "https://kultur.graz.at/kalender/event/1793878939",
+"u": "https://www.hinwider.com/",
 "art": "Kabarettabend"
 },
 {
@@ -695,7 +619,7 @@
 "ti": "In God We Trust | Hannes Priesch",
 "o": "KULTUM",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1793627470",
+"u": "https://www.kultum.at/einrichtung/137/kalender/calendar/2616767.html",
 "art": "Kunst-Performance"
 },
 {
@@ -704,7 +628,7 @@
 "ti": "Portraitkonzert Henrik Sande",
 "o": "kultursalon graz",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1794475895",
+"u": "https://henriksande.com/",
 "art": "Neue Musik, Porträtkonzert"
 },
 {
@@ -725,7 +649,7 @@
 "ti": "Country Gospel XMas",
 "o": "Straßganger Kulturzentrum",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1792574232",
+"u": "https://www.strassgangerkulturzentrum.at/",
 "m": [
 "NEU"
 ],
@@ -793,7 +717,7 @@
 "ti": "Amistat",
 "o": "Orpheum",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1785398438",
+"u": "https://spielstaetten.buehnen-graz.com/event/180957827/",
 "art": "Folk-Pop-Duo"
 },
 {
@@ -838,7 +762,7 @@
 "ti": "Kammermusiktage November (KUG)",
 "o": "Palais Meran",
 "k": "Konzerte",
-"u": "https://kultur.graz.at/kalender/event/1794821125",
+"u": "https://www.kug.ac.at/kammermusiktage",
 "m": [
 "NEU"
 ],
@@ -1123,6 +1047,345 @@
 "u": "https://www.steiermark.com/de/Veranstaltungen",
 "um": true,
 "art": "Tenöre, Weihnachtskonzert"
+},
+{
+"d": "2026-11-25",
+"t": "14:30",
+"ti": "Espressokonzert",
+"o": "Oper, Café Stolz",
+"k": "Konzerte",
+"u": "https://oper-graz.buehnen-graz.com/",
+"m": [
+"NEU"
+],
+"art": "Kammermusik am Nachmittag"
+},
+{
+"d": "2026-11-25",
+"t": "19:30",
+"ti": "Kalter weißer Mann (Komödie Jacobs/Netenjakob)",
+"o": "Theater im Keller",
+"k": "Theater & Oper",
+"u": "https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Theater-Kalter-weisser-Mann_ed_88492927",
+"m": [
+"NEU"
+],
+"zus": "weitere Termine prüfen)",
+"art": "Komödie"
+},
+{
+"d": "2026-11-25",
+"t": "19:30",
+"ti": "Coincidence im Gespräch",
+"o": "KULTUM, Cubus",
+"k": "Konzerte",
+"u": "https://www.kultum.at/",
+"m": [
+"NEU"
+],
+"art": "Konzert & Gespräch"
+},
+{
+"d": "2026-11-25",
+"t": "18:00",
+"ti": "Die Gegenwart Gottes erleben (P. Abrahamowicz)",
+"o": "Kulturzentrum Minoriten",
+"k": "Lesungen & Vorträge",
+"u": "https://www.kultum.at/",
+"art": "Erzählabend, Religion"
+},
+{
+"d": "2026-11-25",
+"t": "20:00",
+"ti": "KUG JazzLive! Benjamin King Trio „A Tribute To Someone“",
+"o": "WIST / mo.xx",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/benjamin-king-trio-a-tribute-to-someone/",
+"p": "Eintritt frei",
+"art": "Jazz-Trio, KUG"
+},
+{
+"d": "2026-11-25",
+"t": "19:30",
+"ti": "Studienkonzert Liedgestaltung (KUG)",
+"o": "Palais Meran",
+"k": "Konzerte",
+"u": "https://www.kug.ac.at/",
+"p": "Eintritt frei",
+"art": "Liederabend, KUG"
+},
+{
+"d": "2026-11-25",
+"auch": [
+"2026-11-26"
+],
+"t": "17:00/13:00",
+"ti": "Vorträge: Neue Technologien & Kreativität (UB, https://future-education.uni-graz.at/de/talks/), NEM (Stadtbibl. Ost), Wickie/Slime/Paiper (https://www.grazmuseum.at/event/wickie-slime-paiper/), Roboter als Begleiter (Elisabethinen), China-Österreich-Abend 26.11. 13:00, Baltikum 26.11. 17:00, Gössmann-Preise 26.11. 18:00, Hans Glas 26.11. 18:00 (https://www.clio-graz.net/), ICH STÄRKE MICH 26.11. 19:30",
+"o": "kultur.graz.at",
+"k": "Konzerte",
+"u": "https://future-education.uni-graz.at/de/talks/",
+"art": "Vortragsreihe"
+},
+{
+"d": "2026-11-25",
+"bis": "2026-11-28",
+"t": "18:00/20:30",
+"ti": "Crossroads Festival Tagesprogramm: 25.11. A Fox Under a Pink Moon / When Pigs Fly; 26.11. This is not A Drill / Katô (20:45); 27.11. Ein Haus für Alle / Everybody To Kenmure Street; 28.11. 18:30 The System, 16:00 Vortrag „Recht auf Stadt statt rechte Städte“ (Spektral)",
+"o": "Heimatsaal",
+"k": "Festivals",
+"u": "https://crossroads-festival.org/de/programm-2026",
+"p": "Eintritt frei",
+"art": "Doku & Gespräch, Festival"
+},
+{
+"d": "2026-11-26",
+"t": "21:00",
+"ti": "Onur Yalcin Quartet",
+"o": "Miles Jazzbar",
+"k": "Konzerte",
+"u": "https://www.milesjazz.at/events/onur-yalcin-quartet-2/",
+"m": [
+"NEU"
+],
+"art": "Jazz"
+},
+{
+"d": "2026-11-26",
+"t": "18:00/19:30",
+"ti": "KUG Studienkonzerte Klavier (Brandhof 21) und Gesang (Palais Meran)",
+"k": "Konzerte",
+"u": "https://www.kug.ac.at/",
+"p": "Eintritt frei",
+"art": "Studienkonzerte, KUG"
+},
+{
+"d": "2026-11-26",
+"t": "19:30",
+"ti": "SIZ + Heimliche Idioten",
+"o": "Theater am Lend",
+"k": "Theater & Oper",
+"u": "https://www.theateramlend.at/",
+"art": "Post-Punk & Kraut-Pop"
+},
+{
+"d": "2026-11-26",
+"t": "19:30",
+"ti": "Herbert Prohaska „Auf dem roten Stuhl“ (Talk & Musik)",
+"o": "Leibnitz Kulturzentrum",
+"k": "Konzerte",
+"u": "https://www.steiermark.com/de/Suedsteiermark/Urlaub-planen/Veranstaltungen/70-Jahre-Herbert-Prohaska-Auf-dem-roten-Stuhl-Live-Show_ed_84755984",
+"um": true,
+"art": "Talk mit Live-Musik"
+},
+{
+"d": "2026-11-26",
+"auch": [
+"2026-11-27"
+],
+"t": "20:00",
+"ti": "Theater „Frauen sind anders … Männer auch“",
+"o": "Kalsdorf",
+"k": "Theater & Oper",
+"u": "https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Theater-Frauen-sind-anders.Maenner-auch_ed_93479114",
+"m": [
+"NEU"
+],
+"um": true,
+"art": "Komödie"
+},
+{
+"d": "2026-11-27",
+"t": "18:00",
+"ti": "KUG: Par Saxellence Festival 001 (Brandhof 21), Komposition (18:00), Bewegungsprojekt 2026 (27./28.11. 19:30, Theater im Palais)",
+"k": "Festivals",
+"u": "https://www.kug.ac.at/",
+"art": "Saxophon & Neue Musik, KUG"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Winged Breath – Marco Blaauw & Christine Chapman (statt Shallow Silence, Programmänderung)",
+"o": "MUWA",
+"k": "Konzerte",
+"u": "https://www.openmusic.at/",
+"art": "Jazzkonzert"
+},
+{
+"d": "2026-11-27",
+"t": "20:00",
+"ti": "Doppelkonzert Bad Ida & Eva Plankton",
+"o": "ARTist's",
+"k": "Konzerte",
+"u": "https://art.ists.at/events/doppelkonzert-bad-ida-eva-plankton/",
+"art": "Doppelkonzert"
+},
+{
+"d": "2026-11-27",
+"t": "21:00",
+"ti": "Lili Maljic Quartet",
+"o": "Miles Jazzbar",
+"k": "Konzerte",
+"u": "https://www.milesjazz.at/events/lili-maljic-quartet-2/",
+"m": [
+"NEU"
+],
+"art": "Jazz"
+},
+{
+"d": "2026-11-27",
+"t": "15:00",
+"ti": "40 Jahre Kuckuck",
+"o": "Forum Stadtpark",
+"k": "Konzerte",
+"u": "https://forumstadtpark.at/de/programm/40-jahre-kuckuck",
+"art": "Lesungen & Performances"
+},
+{
+"d": "2026-11-27",
+"t": "18:30",
+"ti": "Christian Wehrschütz „Heimkehr“ (Buchpräsentation)",
+"o": "Thalia Graz",
+"k": "Konzerte",
+"u": "https://www.thalia.at/",
+"m": [
+"NEU"
+],
+"art": "Buchpräsentation"
+},
+{
+"d": "2026-11-27",
+"t": "17:30",
+"ti": "Vollmondführung Schloss Herberstein",
+"o": "Stubenberg",
+"k": "Konzerte",
+"u": "https://www.steiermark.com/de/Oststeiermark/Urlaub-planen/Veranstaltungen/Vollmondfuehrung-im-Schloss-Herberstein_ed_95303634",
+"um": true,
+"art": "Abendführung"
+},
+{
+"d": "2026-11-27",
+"t": "18:30",
+"ti": "Eröffnung Georg Dinstl – SLOP (bis 29.1.2027)",
+"o": "Galerie Grill",
+"k": "Konzerte",
+"u": "https://galeriegrill.com/blogs/exhibitions/georg-dinstl-slop",
+"art": "Vernissage, Malerei"
+},
+{
+"d": "2026-11-28",
+"t": "20:30",
+"ti": "Beat Club Grazz",
+"o": "Eschenlaube",
+"k": "Konzerte",
+"u": "https://eschenlaube.at/veranstaltungen/",
+"m": [
+"NEU"
+],
+"art": "Konzert"
+},
+{
+"d": "2026-11-29",
+"t": "10:00",
+"ti": "Offene Probe Recreation „Der Winter“ (Anmeldung tickets@styriarte.com)",
+"o": "Palais Attems",
+"k": "Konzerte",
+"u": "https://www.styriarte.com/",
+"art": "Offene Probe, Barock"
+},
+{
+"d": "2026-11-30",
+"t": "18:00 + 20:00",
+"ti": "styriarte Recreation „Der Winter“ (Chouchane Siranossian; Tartini, Fux, Corelli, Vivaldi)",
+"o": "Minoritensaal",
+"k": "Konzerte",
+"u": "https://www.styriarte.com/",
+"m": [
+"NEU"
+],
+"zus": "auch 1.12. 18:00 + 20:00",
+"art": "Barockkonzert, Vivaldi"
+},
+{
+"d": "2026-12-01",
+"t": "19:00",
+"ti": "Literarische Soirée (Vea Kaiser, Marie Schmidt, Kastberger)",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://www.literaturhaus-graz.at/",
+"m": [
+"NEU"
+],
+"art": "Buchdiskussion"
+},
+{
+"d": "2026-12-02",
+"t": "19:00",
+"ti": "Alfred-Kolleritsch-Würdigungspreis an Droschl + manuskripte-Präsentation",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://www.literaturhaus-graz.at/",
+"art": "Preisverleihung, Literatur"
+},
+{
+"d": "2026-12-03",
+"t": "19:00",
+"ti": "Johanna Sebauer „Popóm“ & Tamara Štajner",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://www.literaturhaus-graz.at/",
+"art": "Lesung, Roman"
+},
+{
+"d": "2026-12-03",
+"t": "20:00",
+"ti": "Billy Roisz „Trembling Horizons“ – Eröffnung Installation (bis 16.12.; Live-Act mit Lukas König + Finissage 17.12. 20:00)",
+"o": "Akademie Graz",
+"k": "Konzerte",
+"u": "https://www.grazjazz.at/event/trembling-horizons/",
+"p": "€ 20/13",
+"art": "Jazz, Eröffnungsabend"
+},
+{
+"d": "2026-12-09",
+"t": "19:00",
+"ti": "Best of Lyrik: Dörte Lyssewski & Precious Chiebonam Nnebedum",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://www.literaturhaus-graz.at/",
+"art": "Lyrik-Lesung"
+},
+{
+"d": "2026-12-10",
+"t": "19:00",
+"ti": "Erste Grazer Lesebühne: VOLT-Abschiedsfest",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://www.literaturhaus-graz.at/",
+"art": "Lesebühne"
+},
+{
+"d": "2026-12-14",
+"t": "19:00",
+"ti": "Erika Pluhar „Es war einmal“",
+"o": "Literaturhaus",
+"k": "Lesungen & Vorträge",
+"u": "https://www.literaturhaus-graz.at/",
+"m": [
+"KARTEN SICHERN"
+],
+"art": "Lesung, Erinnerungen"
+},
+{
+"d": "2027-01-22",
+"auch": [
+"2027-01-23"
+],
+"t": "20:00",
+"ti": "Grazer Bluestage Vol. 10 (Meena Cryle & Chris Fillmore, Wressnig & Soul Gift, Hans Theessink, Mally/Schneider)",
+"o": "Orpheum",
+"k": "Konzerte",
+"u": "https://ticketzentrum.buehnen-graz.com/",
+"art": "Bluesfestival-Abend"
 },
 {
 "d": "2026-12-01",
